@@ -10,31 +10,31 @@ Food Recipes
 by
 </br>
 Roma Sharma
-
 </center>
 
 <div class="page_break"></div>
 
-<center>
-
-Copyright &copy; 2012 by Roma Sharma</br>
-
-Photographs copyright &copy; 2012 by Roma Sharma</br>
-</br>
-All Right reserved. No part of this book may be reproduced- mechanically, electronically or by any other means, including photography
-- without the written permission of the author. </br>
-
 </br></br>
-Cover and Book Design by Roma Sharma</br>
 
-eBook formatting and styling by Mayank Sharma</br>
 
-Front cover photograph by Foto Murthy</br>
+<div class="copyright">
+<p>Copyright &copy; 2012 by Roma Sharma</p>
 
-Interior photographs by Roma Sharma</br>
+<p>Photographs copyright &copy; 2012 by Roma Sharma</p>
 
-For information please contact roma@romasharma.com</br>
-</center>
+<p>All Right reserved. No part of this book may be reproduced- mechanically, electronically or by any other means, including photography
+- without the written permission of the author. </p>
+
+<p class="copyright">Cover and Book Design by Roma Sharma</p>
+
+<p class="copyright">eBook formatting and styling by Mayank Sharma</p>
+
+<p class="copyright">Front cover photograph by Foto Murthy</p>
+
+<p class="copyright">Interior photographs by Roma Sharma</p>
+
+<p class="copyright">For information please contact roma@romasharma.com</p>
+</div>
 <div class="page_break"></div>
 
 <div class="dedication">
@@ -53,22 +53,22 @@ new food for her. I use to consult the doctor, my friends and my family
 members whenever I started a new dish for my baby. I wanted to make sure that she was eating healthy food that was appropriate for her age. After going through this cycle once, I thought it was a good idea to 
 document this information so that it could be of use to others. 
 
-So, I started blogging when the baby was about 8 months old and thats when I also shared 10 - 15 recipes 
-on my blog. I wrote the remaining recipes in a simple but comprehensive document and I 
-must say the document was very useful the second time around.
+So, I started blogging when the baby was about 8 months old and that's when I also shared 10 - 15 recipes 
+on my blog. Soon after, I noticed that most people came to <a href='romasharma.com'>my blog</a> 
+looking for baby food recipes. Besides the blog, I wrote all the tried and tested recipes in a simple but comprehensive document. I 
+must say it was very useful the second time around.
 
-When I found myself with another baby, ready to be given solids, I realized its a good time not only to update 
-the document but also publish it for all moms like me. I also noticed that most people came to <a href='romasharma.com'>my website</a> 
-looking for baby food. So here is the list of Indian Baby food I have worked on over my two babies. 
+When I found myself with another baby, ready to be given solids, I realized it's a good time not only to update 
+the document but also publish it for all moms like me. So here is the list of Indian Baby food I have worked on over my two babies. 
 I realized that I either have to put in effort in making the dish or in feeding it. The choice is mine.
 Well, I prefer spending time making the dish and feeding her quickly. I don't think anyone enjoys running after the baby convincing him to eat. 
 I hope you find these recipes useful and above that I hope your baby likes them.
 
 <div class="page_break"></div>
 TABLE_OF_CONTENTS
-#Guide to reading recipes
+#Feeding your baby
 This book has 60 recipes which are divided into sections based on the baby's age. 
-To make the most of this book its recommended that you read the phases sequentially from the beginning instead of just the section that is meant for your baby's age group. 
+To make the most of this book it's recommended that you read the phases sequentially from the beginning instead of just the section that is meant for your baby's age group. 
 That way you can gather information on how you can modify recipes recommended for a younger age group, to suit an older one.
 
 
@@ -83,26 +83,27 @@ That way you can gather information on how you can modify recipes recommended fo
 
 Certain recipes contain additional information as displayed below :
 
-<blockquote>This section contains important points to note on the recipe</blockquote>
+<blockquote>This section contains important points to note on the recipe.</blockquote>
 
+####Nutritional Facts
 <blockquote class="nutrition">
-This section contains nutritional information on the recipe
+This section contains nutritional information on the recipe.
 </blockquote>
 
 
 
 
-#Importance of Breast feeding
+##Importance of Breast feeding
 
 When it comes to a nutrition filled diet for the baby, there is no substitute for breast milk. It is rich in nutrients and anti-bodies that gives 
 your baby good protection from diseases.
 Breast-fed babies are at a lower risk of ear infection, diarrhea, asthma, obesity and lower respiratory infections. They are also 
-at a reduced risk of chronic constipation, colic and other stomach related ailments.
+at a reduced risk of chronic constipation, colic and other stomach-related ailments.
 It has also been observed that breast-fed babies have a higher IQ due to specific 
 proteins in human milk that promote brain development.
 
-Benefits of breast feeding are not limited to the baby. Mothers who breast feed are at a lower risk of cervical / Breast / Ovarian Cancer and Post partum depression.
-Feeding the baby generates oxytocin harmone which is a 'happy' harmone. It helps the uterus contract back to its original shape, helps milk flow and also calms 
+Benefits of breast feeding are not limited to the baby. Mothers who breast feed are at a lower risk of Cervical/ Breast/ Ovarian Cancer and Postpartum depression.
+Feeding the baby generates oxytocin hormone which is a 'happy' hormone. It helps the uterus contract back to its original shape, helps milk flow and also calms 
 the mother. Psychologically, the mother and baby develop a strong emotional bond due to skin contact during feeding. It also helps the mother shed any excess weight gained 
 during her pregnancy and get back in shape easily.
 
@@ -118,7 +119,7 @@ the way of their day-to-day chores. However, it is important to realize the long
 the baby upto 6 months. After that, solids can be introduced to the baby alongside breast feeding upto the age of 2 years. 
 
 
-# Recommended Fruits and Vegetables 
+## Recommended Fruits and Vegetables 
 
 <IMG SRC="images/fruits_veg_chart.jpg" />
 
@@ -151,11 +152,11 @@ the baby upto 6 months. After that, solids can be introduced to the baby alongsi
 </table>
 -->
 
-#Introducing Solids
+##Introducing Solids
 
-When we start the baby on solids we introduce mono-cereals that is one cereal at a time, which could be rice or finger millet (ragi). We usually 
-do not start on wheat or any other cereal which might contain gluten to avoid the risk of gluten allergy.
-Its also a great time to start the baby on <a href='#ch_h1_3'>fruits and vegetables</a> recommended for his age group.
+When we start the baby on solids we introduce mono-cereals, that is one cereal at a time. Usually, rice or finger millet (ragi) is the preferred 
+cereal as it's light and easy to digest. It's not recommended to start with wheat or any other cereal which might contain gluten, to avoid the risk of gluten allergy.
+It's also a great time to start the baby on <a href='#ch_h1_3'>fruits and vegetables</a> recommended for his age group.
 
 Please ensure you give the baby boiled water to drink after every meal of solids. Cool the water to room temperature before feeding.
 
@@ -164,36 +165,37 @@ Please ensure you give the baby boiled water to drink after every meal of solids
 Solids can be introduced after the age of 6 months by following the 4-day rule. Each time you introduce a new food to the baby 
 you need to continue feeding the same food for 4 days along with other foods that you have safely introduced earlier.
 This is to detect any food intolerance or allergic reactions the baby might have to the newly introduced food.
-Its also advisable to try feeding the food in the morning so you can easily get help during the day (just in case).
+It's also advisable to feed the food in the morning so you can easily get help during the day (just in case of an allergic reaction).
 
 
 <b>No Salt/ Sugar: </b>
 
-Salt or Sugar is not recommended for babies upto the age of one year. Beyond that you can introduce salt or sugar in small quantities.
+Salt or Sugar is not recommended for babies upto the age of one year. Beyond that, you can introduce salt or sugar in small quantities.
 A baby needs less than 1 gram of salt per day upto the age of 1 year. This salt requirement is met by mother's milk. Anything in excess 
-to that received from food could cause kidney damage. Hence, its advisable to allow the baby to benefit from natural salts and sugars from 
-vegetables / fruits instead of adding any externally.
+of that received from food could cause kidney damage. Hence, it's better to let the baby benefit from natural salts and sugars obtained from 
+vegetables/ fruits instead of adding any externally.
 
 Even after the age of one, try to use minimum salt/ sugar in the baby's food. Try to substitute table salt with black salt and sugar with rock sugar (mishri) or jaggery
-. Do not add honey to sweeten baby's food till the age of one year. You can try using fruit puree to sweeten the food instead of adding sugar.
+. Do not add honey to sweeten baby's food till the age of one. Contaminated honey can cause a rare but serious form of food poisoning called infant botulism. The same applies 
+to corn syrup as well. The safest and healthiest way to sweeten food is to use fruit puree.
 
 
 <b>Healthy ingredients make healthy food :</b>
 
 While trying out recipes from this book please try to use organically grown fruits and vegetables 
-as they are free of insecticides, pesticides and other harmful chemicals. Even wheat grains, rice, lentils, ragi/ finger millet and jaggery are better 
-in organic form.
+as they are free of insecticides, pesticides and other harmful chemicals. Even wheat grains, rice, lentils, finger millet (ragi) and jaggery are better 
+in the organic form.
 
-Brown rice is a better option when compared to the regular, polished rice as its only partially milled. The husk is removed leaving the bran and germ layers intact.
+Brown rice is a better option when compared to the regular, polished rice as it's only partially milled. The husk is removed leaving the bran and germ layers intact.
 
-After the age of one when you start adding salt in small quantities to baby's food try replacing table salt with black salt. Black salt or *kala namak* 
+After the age of one when you start adding salt in small quantities to baby's food, try replacing table salt with black salt. Black salt or *kala namak* 
 is an Indian mineral salt which aids digestion. Its cooling properties help cure flatulence (gas) and heartburn. It also acts as a laxative and provides 
 relief from constipation.
 
-Ingredients like Whole green moong, Broken Wheat (dalia) or finger millet (ragi) should be used in the sprouted form to increase the nutritive value of the dish.
-While green moong grains, ragi, etc. need to be sprouted at home, Sprouted Broken wheat is readily available in organic stores. 
+Ingredients like whole green moong, wheat grains or finger millet (ragi) should be used in sprouted form to increase the nutritive value of the dish.
+While green moong grains, wheat grains, ragi, etc. need to be sprouted at home, sprouted broken wheat is readily available in organic food stores. 
 Avoid using canned or frozen ingredients for making baby food as they contain preservatives and lack nutritive value. 
-Do not feed the baby any store-bought food containing Ajinomoto (msg - monosodium glutamate), artificial sweeteners or added colors upto 
+Please do not feed the baby any store-bought food containing ajinomoto (msg - monosodium glutamate), artificial sweeteners or added colors upto 
 the age of one.
 
 <b><a name='feeding_bottle'>Feeding equipment</a> :</b>
@@ -201,35 +203,35 @@ the age of one.
 Avoid using feeding bottles! Babies could quit drinking breast milk altogether. Bottle-fed babies are also at a higher risk of infections.
 The biggest reason to not use feeding bottles is that some babies simply refuse to leave the bottle even when they are quite old. They 
 could go to the extent of not eating or drinking anything for days simply because they can not do without their feeding bottles! 
-To feed the baby its best to use silver or stainless steel cups, plates, tumblers, bowls and spoons.
-These are easy to clean and do not require any sterilizing. Some people also like to use high-grade plastic which is also a good option. Care needs to be taken that nothing fragile should 
+To feed the baby it's best to use silver or stainless steel cups, plates, tumblers, bowls and spoons.
+These are easy to clean and do not require any sterilizing. Some people like to use high-grade plastic which is also a good option. Care needs to be taken that nothing fragile should 
 be given to the baby.
 
-Initially at the age of 6 months when you introduce fluids you can use non-spill sippers with soft pouts to give the baby juice or water. Later, if your 
+Initially, at the age of 6 months when you introduce fluids you can use non-spill sippers with soft pouts to give the baby juice or water. Later, if your 
 baby takes a liking to it you can buy another non-spill sipper with a hard pout. Every night you will need to disassemble the sipper and wash it with 
 mild soap and hot water.
 
 If, like me, you would like to skip this daily night routine you can use a small-sized stainless steel tumbler to feed milk to the baby. A regular 
-tumbler could create a bit of a mess initially though its more hygienic and easier to clean. It also prepares your baby for a smooth transition 
-onto the next stage of eating and drinking like yourself. This means lower maintenance and an easier day-to-day life. Not to mention the hassle-free cleaning of glasses 
-during travel. 
+tumbler could create a bit of a mess initially though it's more hygienic and easier to clean. It also prepares your baby for a smooth transition 
+onto the next stage of eating and drinking by himself. This means lower maintenance and an easier day-to-day life. Not to mention, the hassle-free cleaning of feeding 
+equipment during travel. 
 
-#Introducing Milk
-Upto the age of 9 months its not advisable to introduce any external milk to the baby. At the age of 10 months you can start with formula milk after consulting your doctor.
+##Introducing Milk
+Upto the age of 9 months it's not advisable to introduce any external milk to the baby. At the age of 10 months you can start with formula milk after consulting your doctor.
 <a href='http://en.wikipedia.org/wiki/Infant_formula'>Formula milk</a> is evaporated milk powder specially composed to meet the nutritional requirement of babies. Please read the label of the formula milk pack carefully and select one based on your baby's age. You also need to refer to the directions on the pack to know 
 the quantity and frequency of giving formula milk. Please consult your doctor regarding this as we don't want to reduce baby's appetite 
 for breast milk.
 
 After the age of one year you can introduce cow's milk if the baby has not taken a liking to formula milk. 
-Cow's milk has to be homogenized and pasteurized. You will need to boil and cool it before feeding the baby. Milk can be given in the morning, evening and once at night before the baby goes to sleep. 
+The cow's milk used has to be homogenized and pasteurized. You will need to boil and cool it before feeding the baby. Milk can be given in the morning, evening and once at night before the baby goes to sleep. 
 Warm milk helps fill the baby up so that he can sleep through the night without waking up for feeds at short intervals. If your baby doesn't like the taste of plain milk you can try adding a bit of jaggery or rock sugar to it.
 
 Avoid using feeding bottles to give milk to the baby. You can use a soft pout sipper, straw mug or a tumbler.
 
-#My baby is a fussy eater
+##My baby is a fussy eater
 Every child has his unique eating habits. We just need to experiment to know what works best for the baby. Some babies like bland food while others like it sweet. Some 
 like to be spoon-fed while others would rather eat on their own. As mothers we are all concerned if we are feeding the right type of food in the right quantity or not.
-Often even if we manage to make nutritious food its rejected by babies due to unknown reasons. Since babies are unable to speak, what suits them has always been a 
+Often even if we manage to make nutritious food it's rejected by babies due to unknown reasons. Since babies are unable to speak, what suits them has always been a 
 mystery. The best you can do is to observe the baby well when he eats. Make a mental note of the vegetables/ fruits / ingredients he seems to like in his food and 
 what method of feeding works best for him. 
 
@@ -238,63 +240,64 @@ Hopefully some of the ideas mentioned here can make feeding food an enjoyable ex
 
 ###Measure the quantity of milk intake :
 Ensure you don't feed the baby more milk than he requires at his age as that could fill him up with milk and reduce his appetite 
-for food. After feeding milk give at least a 2-hour interval and then offer food. 
+for food. After feeding milk give at least a 2-hour interval and then offer food.
 
 ###Never chase your baby :
 Babies need to eat at their own pace. Allow the baby to decide how much and when he wants to eat. Never run after him with food as you 
 could run for a long time without much gain. Sit in one place and try to feed the baby. If he runs away call out to him and ask 
-him to come back for a bite. In time he will realize that he needs to be where you are if he wants anything to eat. 
+him to come back for a bite. In time, he will realize that he needs to be where you are if he wants anything to eat. 
 
 Get a high chair and make the baby sit with you and the entire family at meal time. The baby will notice the routine and soon start responding 
-to it. Eat healthy food on the dinner table with enthusiasm. He will find your food interesting and might want to try some from your plate. 
+to it. If you eat healthy food on the dinner table with enthusiasm, he will find your food interesting and might want to try some from your plate. 
 That is a good way of making him try out new food.
 
 ###Encourage him to pick his food and eat on his own :
-Around the age of one some babies stop responding to feeding only because they don't want to be fed. They like to feel the texture of the food 
+Around the age of one, some babies stop responding to feeding only because they don't want to be fed. They like to feel the texture of the food 
 they eat and would rather eat on their own. This could be a bit messy initially but it helps the baby develop good eating habits at an early age.
 You can place small pieces of soft fruits like banana, papaya or avocado and encourage him to pick it up. Tiny bits of bread, roti and grains 
 of rice also work well.
 
 ###Calm environment :
-Do not allow babies to play games, watch TV or indulge in any other distraction while eating food. The environment has to be quiet so only food is 
-on the mind. Do not compel the baby to eat. Force feeding can have lasting effects on the baby's mind which could make him lose interest in eating 
+It's advisable not to allow babies to play games, watch TV or indulge in any other distraction while eating food. The environment has to be quiet, so only food is 
+on the mind. It's not a good idea to compel the baby to eat. Force feeding can have lasting effects on the baby's mind which could make him lose interest in eating 
 for a long time to come. Allow him to eat at his own pace. He will ask for food when he is hungry.
 You can also try feeding him at a friend's place. Sometimes babies get bored of their home and just want a different environment to make their meals 
 interesting.
 
 ###Dress up the food :
-You can try giving interesting shapes to the food so it attracts the baby's attention. You can use molds to shape soft solids like halwa, cookie cutters 
+You can try giving interesting shapes to the food so it attracts the baby's attention. You can use molds to shape soft solids like halwa and cookie cutters 
 to cut out shapes from bread, roti, etc. You can even try hand molding the dough into animals, birds, etc. before making them into chappatis. I remember 
 loving the 'eye' and 'beak' of the bird in chappatis that were given to me. That was the first bit I enjoyed eating.
-Pancake molds are available in super markets that can be used directly on the griddle to shape dosas and other pancakes.
+
+Pancake molds are available in super markets that can be used directly on a hot griddle to shape dosas and other pancakes.
 Vegetable carving can help you create small carrot flowers or bunny faces using vegetables. You can use your imagination to make things the baby likes 
-in daily life. My baby loves dogs and anything that looks like one is yummy.
+in daily life. My baby loves dogs and anything that looks like one, is yummy.
 
 ###Change the taste :
-By the age of one the baby's taste buds are well developed. The bland, salt-free food you have been feeding so far might not work anymore.
-You might need to mix in some herbs and spices in moderate quantities to make the food tasty. You might want to taste it yourself 
+By the age of one, the baby's taste buds are well developed. The bland, salt-free food you have been feeding so far might not work anymore.
+You could mix in some herbs and spices in moderate quantities to make the food tasty. It's recommended to taste the food 
 before offering it to him. If you do not find it delicious, chances are neither will he. Ensure you use a different spoon while tasting baby's food. 
 Using your spoon for the baby can cause bacteria to enter baby's mouth causing tooth decay.
 
 ###No Substitutes :
-Its a good idea to experiment with food and try out different types of food for your baby. However, while having meals do not offer any other food immediately after he 
+It's a good idea to experiment with food and try out different types of food for your baby. However, while having meals please do not offer any other food immediately after he 
 rejects something. Wait for a while, offer him a sip of water and try again. If you immediately try different food it will encourage 
 him to reject anything given to him in the hope for something tastier. This is not only tiring for the mother but spoils the baby's eating habits.
-Do not offer milk as a substitute for food as that could soon become a habit. Drinking excessive milk in place of food could result in constipation due to 
+Please do not offer milk as a substitute for food as that could soon become a habit. Drinking excessive milk in place of food could result in constipation due to 
 lack of roughage in the intestines.
 
 ###Feeding on the move :
-When you need to go out somewhere and are hard-pressed for time it might add pressure on the baby to eat quickly. In such situations, its helpful to 
+When you need to go out somewhere and are hard-pressed for time it might add pressure on the baby to eat quickly. In such situations, it's helpful to 
 pack the food and feed it during the commute. If you are traveling in a bus or a car the baby won't have much to do but gaze out of the window. This 
-is the time they are bored as they can't really run around and food serves as a subject of interest. You can save time too if the feeding time overlaps 
+is the time he is bored as he can't really run around and food serves as a subject of interest. You can save time too if the feeding time overlaps 
 with the time spent in commutation.
 
-Despite all attempts if the baby doesn't eat over a few days its better to consult your doctor as the baby could be going through some digestive problem 
+Despite all attempts if the baby doesn't eat over a few days it's advisable to consult your doctor as the baby could be going through some digestive problem 
 and could need medical attention.
 
-#My baby dislikes milk
+##My baby dislikes milk
 
-Some babies who tend to like milk too much, reject food and stick to a strictly milk diet. When babies drink only milk they could get constipated easily due to lack of roughage.
+Some babies tend to like milk too much. They reject food and stick to a strictly milk diet. When babies drink only milk they could get constipated easily due to lack of roughage.
 You can try tackling this problem by cutting down their milk intake and increasing their finger foods. If they don't seem to like the food initially 
 please be patient. They will eat when they are hungry. 
 
@@ -303,42 +306,44 @@ for growth and development. Here are some ways of trying to help a baby who does
 
 ###Other forms of milk :
 1) You can try making <b>milk shakes</b> by churning up milk with strawberries, banana, apple or any other fruit your baby likes (depends on what is permitted at 
-his age. If the fruit is not found <a href='#ch_h1_3'>in the chart</a> please start only after the age of one)
+his age. If the fruit is not found in the <a href='#ch_h1_3'>chart</a> please introduce it only after the age of one).
 
 2) Once in a while you can substitute milk with <b>buttermilk</b> (or lassi). This can be made by adding a pinch of salt or sugar after the age of one. 
-For a more nutritious option you can try blending curd with mango, banana or sapota instead of adding sugar. Please refer to 
-the <a href='#ch_h1_3'>chart</a> and select the fruit depending on the age of your baby. This will make a delicious <b>smoothie</b> 
+For a more nutritious option, you can try blending curd with mango, banana or sapota instead of adding sugar. Please refer to 
+the <a href='#ch_h1_3'>chart</a> and select a fruit based on your baby's age. This will make a delicious <b>smoothie</b> 
 that is nutritious as well.
 
 3) When neither of the above work you can give your baby bits of <b>cheese cubes or slices</b> to make up for the milk he is not having.
-You can try cutting the slices into different shapes with a cookie cutter. You can also try some cheese spread on a slice of Whole Wheat Bread or 
-a multi-grain cracker. Another option you can try out is <b>cottage cheese</b> or paneer. Its recommended to <a href='#ch_48'>make paneer at home</a> for the baby. 
+You can try cutting the slices into different shapes with a cookie cutter. You can also try some cheese spread on a slice of whole wheat bread or 
+a multi-grain cracker. Another option you can try out is <b>cottage cheese</b> or paneer. It's recommended to <a href='#ch_48'>make paneer at home</a> for the baby. 
 It can be grilled or stir fried with some herbs before feeding.
 
 ###Different cutlery :
 Try using different glasses so that the baby can be distracted by the change and finds the drink interesting enough to try out. 
-You can use a transparent one so the baby can appreciate the look and color (in case of milk shakes, smoothies, etc.). Its advisable to 
+You can use a transparent glass so the baby can appreciate the look and color (in case of milk shakes, smoothies, etc.). It's better to 
 seal the mouth of the fancy glass with a cling film and prick it in the center with a straw. That will prevent the milk from spilling over.
 Avoid using fragile glasses. Stick to high grade plastic or stainless steel.
 
 Baby shops are loaded with fancy tumblers and straw mugs that the baby can hold easily while drinking. Try to pick a new mug for the baby 
-or borrow one to see if the baby would enjoy a change.
+to see if the baby would enjoy a change.
 
 ###Changed Environment :
 You will notice that sometimes your baby drinks milk offered at a friend's place and rejects the same milk or food when given at home. 
 This is because he is distracted by the new surroundings and finds the food interesting. This is the best time to make him try a 
-milk shake. However, this is not a permanent solution. Its just to get him started on something new.
+milk shake. However, this is not a permanent solution. It's just to get him started on something new.
 
-#Home Remedies
-All a baby in discomfort can do, is cry. That is the reason why with a little baby at home we often find ourselves repeatedly seeking medical attention. 
-When babies suffer from common ailments instead of immediately starting medication its a good idea to try out some simple remedies at home :
+##Home Remedies
+All a baby in discomfort can do, is cry. That is the reason why with a little baby at home, we find ourselves repeatedly seeking medical attention. 
+When babies suffer from common ailments instead of immediately starting medication it's a good idea to try out some simple remedies at home :
 
 ###Diarrhea :
+
 Common causes for Diarrhea :
 
-1) A stomach infection or eating certain types of food could cause diarrhea.  
-2) Teething often causes loose and frequent motions.  
-3) Certain medicines (particularly antibiotics) could trigger a bout of diarrhea. 
+1) A stomach infection could cause diarrhea.  
+2) Eating excessive amount of food that is laxative in nature (prunes, sultanas, raisins, black salt, fruit blended with milk, etc.).   
+3) Teething often causes loose and frequent motions.  
+4) Certain medicines (particularly antibiotics) could trigger a bout of diarrhea. 
 
 To relieve a baby of this condition you can feed the baby with <a href='#ch_8'>applesauce</a>, pomegranate juice, dry toast or <a href='#ch_22'>sabudana porridge</a>. 
 Besides these you can give re-hydrating solutions like buttermilk, <a href='#ch_2'>rice porridge</a> and arrow root porridge. To make the porridge you need to boil 
@@ -347,8 +352,8 @@ Please check with the doctor before feeding this solution as it contains salt an
 
 Arrowroot porridge and arrowroot biscuits both help in 
 reducing the frequency of passing motion. They also replenish nutrients lost during diarrhea.
+Curd is also good in relieving diarrhea as it contains the bacteria lactobacillus which aids digestion. 
 
-Curd is also good in relieving diarrhea as it contains the bacteria lactobacillus which aids in digestion. 
 Try to give the baby small and frequent meals and sufficient fluids to keep him hydrated.
 
 AVOID : Dairy products (other than curd), fruits, milk shakes and all kinds of dried currants - raisins, prunes, sultanas.
@@ -363,82 +368,87 @@ attention has to be given to the fluid intake on warm days.
 4) Food allergies could also trigger this reaction. Follow the <a href='#4_day_rule'>4-day rule</a> to narrow down the problem.  
 5) Taking certain prescribed medicines could cause constipation. Check with your doctor in this case.  
 
-Give the baby warm water to drink every few hours. 
-
-<a href='#ch_15'>Pureed sultanas</a> can be given in a small quantity (about 1 - 2ml) as its excellent in relieving the baby of constipation. 
-Also, effective is a milk shake made out of mango or banana. The same can be tried with prunes which is a rich source of soluble fiber and hence a good laxative 
-(Its recommended to use only one sultana or prune at a time to avoid the risk of a diarrhea).
+<a href='#ch_15'>Pureed sultanas</a> can be given in a small quantity (about 1 - 2ml) as it's excellent in relieving the baby of constipation. 
+The same can be tried with prunes which is a rich source of soluble fiber and hence a good laxative 
+(it's recommended to use only one sultana or prune at a time to avoid the risk of a diarrhea).
+Also, effective is a milk shake made out of mango or banana. 
 
 <a href='#ch_3'>Mixed vegetable soup</a> is another drink that provides good roughage and should be given 
 to the baby during this time. You can add a sultana, prune or a raisin to the vegetables while boiling. That way the soup will not only be sweeter but will 
 also have a laxative effect.
-Basically, pureed fruits and vegetables provide good fiber to relieve the baby of constipation.
 
-For babies above the age of one, you can add a pinch of black salt (kala namak) to the food. Black salt serves as an excellent laxative. It 
+For babies above the age of one, you can add a pinch of black salt (kala namak) to the baby's food. Black salt serves as an excellent laxative. It 
 not only softens stools but also provides relief from intestinal gas.
+
+Please give the baby lukewarm water to drink every few hours. 
 
 AVOID : <a href='#ch_8'>Applesauce</a>, white bread and white potato.
 
 ###Stomach ache due to gas :
 Boil 1/4 teaspoon of carom seeds (ajwain) with a pinch of rock sugar. Strain and feed a teaspoon of this water to the baby about 2-3 times a day 
-to relieve the baby of painful gas in the stomach (flatulence).
-For babies who have started eating curd, ajwain can be had with buttermilk on a regular basis to aid digestion.
+to relieve the baby of painful gas in the stomach (flatulence). Please use this remedy for babies above the age of one as it contains sugar 
+which is a restricted ingredient.
+
+For babies who have started eating curd, carom seeds (ajwain) can be had with buttermilk on a regular basis to aid digestion.
 
 Above the age of one, you can add a pinch of powdered black salt (kala namak) to the baby's food. Black salt is a mineral that provides excellent relief from 
 flatulence.
 
 ###Cough/ Cold :
-Steam inhalation is the best time-tested method of giving relief during a cough. Please remember that what is warm for you is hot for the baby. 
-Keep the source of steam at a distance of at least 2 feet from the baby. If baby doesn't inhale vapours easily you can try adding 
-a few drops of eucalyptus oil in the baby's bath water. The vapours help relieve the baby of a blocked nose. Ensure that the water doesn't 
-enter the eyes as that could cause irritation. 
+Steam inhalation is the most time-tested method of providing relief during a cold. Please remember that what is warm for you is hot for the baby. 
+Keep the source of steam at a distance of at least 2 feet from the baby. If he doesn't inhale vapors easily you can try adding 
+a few drops of eucalyptus oil to his bath water. These medicated vapors help relieve the baby of a blocked nose. Ensure that the water doesn't 
+enter his eyes as that could cause irritation. 
 
 Turmeric has good antiseptic properties and when mixed with warm milk acts as a good <a href='#ch_34'>cough relief drink</a>. 
 The extract of crushed <a href="http://www.ifood.tv/blog/ajwain-leaf-benefits">ajwain leaves</a> (also known as Indian Borage) is excellent for relieving cough and cold. 
 It serves a dual purpose as it also prevents gas formation in the stomach (flatulence). 
-Heat 4-5 ajwain leaves along with a few tulsi leaves (Holy Basil) on a hot pan, for a few minutes. Grind and extract the juice from these leaves. 
+Heat 4-5 ajwain leaves along with an equal number of tulsi leaves (Holy Basil) on a hot pan, for a few minutes. Grind and extract the juice from these leaves. 
 Diluted the juice with equal quantity of boiled and cooled water before feeding the baby. 
 
-To reduce a chest congestion you can tie carom seeds in a muslin cloth, heat it on a 
+To reduce a chest congestion you can tie carom seeds (ajwain) in a muslin cloth, heat it on a 
 griddle till warm and press it gently on the baby's chest. Ensure you test the heat on your elbow before touching the baby with it or it could 
 get too hot without your knowledge.
 
-Food thats fried, sugary or cold should be avoided at this time. Fruits and vegetables that are rich in Vitamin C are best to fight a cold. 
+Food that's fried, sugary or cold should be avoided at this time. Fruits and vegetables that are rich in Vitamin C are best to fight a cold. 
 
 <b>Fruits rich in Vitamin C are </b>: guava, papaya, strawberry, kiwi and orange.
 
 <b>Vegetables rich in Vitamin C are </b>: red bell peppers, parsley, broccoli, cauliflower, cabbage, tomatoes, celery and spinach.
 
 ###Nappy Rash :
-As soon as you notice redness in the baby's nappy area stop using nappies! Thats the easiest way to get rid of a rash. Expose the baby's bottom to sunlight as it helps heal the rash faster.
-Do not use wet wipes to wipe the baby more that 2-3 times a day. Excessive use of wet wipes also causes rashes.
-Apply some breast milk to the rash. Breast milk has great healing properties and will help the baby feel better quickly.
-You can also apply coconut oil or castor oil to the rash, every time you clean the baby.
+As soon as you notice redness in the baby's nappy area stop using nappies! That's the easiest way to get rid of a rash. Expose the baby's bottom to sunlight as it helps heal the rash faster.
+Excessive use of wet wipes also causes rashes. Please do not use wet wipes to wipe the baby more than 2-3 times a day. Even when you do, ensure you 
+apply gentle pressure and not rub the skin in order to clean it.
 
-Avoid giving the baby acidic food like tomatoes, pineapple, grapes, apples, oranges and other citrus fruits.
+Apply some breast milk to the rash. Breast milk has great healing properties and will help the baby feel better quickly.
+You can also apply coconut oil or castor oil to the rash, regularly after you clean the baby.
+
+Avoid giving the baby acidic food like tomato, apple, pineapple, grapes, oranges and other citrus fruits.
 Also avoid raisins, prunes, sultanas, milk shakes and other food that could have a laxative effect and aggravate the rash.
 Using the <a href='#4_day_rule'>4-day rule</a> you could detect which food is exactly causing the unwanted re-action.
 
 Using nappy rash creams can be quite a challenge at this point as the cream gets washed off every time the baby passes urine or motion.
 Crystal violet or <a href='http://en.wikipedia.org/wiki/Crystal_violet'>Gentian Violet</a> is a medicinal dye which is useful at this time. 
-You need to apply a few drops on the rash with the help of a cotton bud (otherwise you will stain your fingers!). 
+You need to apply a few drops of this dye on the rash with the help of a cotton bud (otherwise you will stain your fingers!). 
 Once applied, it leaves a mark on the skin and stays on even after you clean the baby whenever he wets. The persistent stain of gentian violet on the skin helps cure the rash faster. 
 However, while opting for this solution you need to check with your doctor and use a dye that is safe for babies.
 
 If the nappy area has a bright red rash with spots it could be a fungal infection. In this case please contact a doctor immediately as it 
 would require special treatment.
 
+####Please Note
 > * Please ensure that the above medicinal food being fed to the baby is based on the baby's age.
 > * These remedies do not replace medical advice. Please consult a doctor if the problem persists.
 
-#Travel Food
-Taking care of a baby can be a monotonous job and soon you could find yourself missing the holidays you once use to take to 
-catch on a break. Parents feel anxious about travelling with a baby since its not a good idea to feed the baby anything bought outside. At the 
-same time its also difficult to clean the feeding equipment used. Here are some tips to help you feed your baby during travel :  
+##Travel Food
+Taking care of a baby can be a monotonous job and soon you could find yourself missing the holidays you once use to take, to 
+catch on a break. Parents feel anxious about travelling with a baby since it's not a good idea to feed the baby anything bought at restaurants outside. 
+Besides that, it's also difficult to clean the feeding equipment used on the run. Here are some tips that could help you feed your baby during travel.  
 
 ###Homemade food with long shelf life :
-For you journey you can carry *puas* which are sweet pooris. For this you have to knead wheat flour with jaggery syrup into a hard dough. Allow it to rest 
-and fry pooris out of this dough. To go with pua you can make <a href='http://romasharma.com/2008/03/20/stuffed-ladys-fingers-bharwa-bhindi/'>bharwa bhindi</a> which is stuffed Lady's finger. This recipe pickles bhindi 
+For your journey, you can carry *puas* which are sweet pooris. For this, you have to knead wheat flour with jaggery syrup into a hard dough. Allow it to rest 
+and fry pooris out of this dough. To go with pua you can make <a href='http://romasharma.com/2008/03/20/stuffed-ladys-fingers-bharwa-bhindi/'>bharwa bhindi</a> which is stuffed Lady's finger. This recipe pickles lady's finger (bhindi) 
 in sweet and sour masalas to give it a long shelf life. Another good dish to carry along with you on journeys is <a href='#ch_60'>thepla</a>. Thepla is a paratha made from fenugreek 
 leaves or methi. Methi leaves act as a preservative. They could be a bit bitter for the baby so please try feeding it once 
 before the trip.
@@ -452,44 +462,46 @@ anywhere and could see you through a meal.
 ###Finger foods :
 Finger foods like bread sticks and puffed rice are helpful in feeding the baby as well as keeping him distracted during travel. 
 You can also carry fruits like bananas, apples and oranges that are easy to feed whenever required.
-If you are travelling by air, its advisable to give the baby something to chew on during take-off and landing to reduce any chances of 
+If you are travelling by air, it's advisable to give the baby something to chew on during take-off and landing to reduce any chances of 
 ear pain due to sudden change in altitude. Finger foods should be avoided during car travel to avoid the risk of choking.
 
 ###Feeding equipment :
-If you have decided not to use feeding bottles for the baby this is the time you will be glad you made that choice. 
+If you have decided not to use feeding bottles for the baby, this is the time you will be glad you made that choice. 
 Besides the known <a href='#feeding_bottle'>issues with feeding bottles</a> the other problem is that they are hard to sterilize 
-during trips. Its easiest to carry a stainless steel tumbler, spoon and cup. You just 
-need to keep a scrub pad and a sachet of dish washing liquid to clean them after use. 
+during trips. It's easiest to carry a stainless steel tumbler, spoon and cup. You just 
+need to keep a scrub pad and a sachet of dish washing liquid to wash the feeding equipment after use. 
 
 ###Fluids :
 Carry formula mix in dry containers along with a flask containing hot water. Mix the two in appropriate amounts and prepare milk 
-for the baby during trips. If baby has not taken to formula milk then carry small tetra-packs of the milk you have started him 
-on. Give him the milk to drink in a glass so its easy to clean after using. You can alternately keep disposable glasses and throw 
+for the baby during travel. If baby has not taken to formula milk then carry small tetra paks of the milk you have started him 
+on. Give him the milk to drink in a glass so it's easy to clean after use. You can alternately keep disposable glasses and throw 
 them after using once.
 
 Carry boiled and cooled water for the baby. Avoid water from anywhere outside. Give the baby plenty of fluids to drink as he 
 could get de-hydrated during travel.
 
+####Please Note
 > * Never give the baby sprouts, chutney, curd or anything uncooked on trips as that could cause diarrhea. 
 
 
-# **Phase 1 : 6 - 7 months**
+#Phase 1 : 6 - 7 months
  This is the age when the baby has just started having something other than mother's milk. It's important to give things that are light to digest as well as nutritive.
-For weaning off the baby initially we give mono-cereals that is single cereal at a time. So you can start with ragi or rice. We usually don't wean the baby with wheat as it contains gluten and babies can have an allergic reaction to it. We start off with lentils like yellow moong dal that are light on the stomach and easy to digest. 
+For weaning off the baby initially we give mono-cereals i.e., single cereal at a time. So you can start with ragi or rice. We usually don't wean the baby with wheat as it contains gluten and babies can have an allergic reaction to it. Among lentils, yellow moong dal is preferred as it's light on the stomach and easy to digest. 
 
-We also start giving baby fruits like banana (small variety), steamed apple and vegetables like carrot, potato, pumpkin, etc. We consciously avoid vegetables like lady's finger that might have too many seeds or radish, kohlrabi, etc. which might have fibers that are difficult to swallow.
+We also start giving the baby fruits like banana (small variety), steamed apple and vegetables like carrot, potato, pumpkin, etc. We consciously avoid vegetables like lady's finger that might have too many seeds or radish, kohlrabi, etc. which might have fibers that are difficult to swallow.
 ###Sample Routine :
 Lunch : mashed vegetable Khichdi   
-Evening : mashed fruit / fruit sauce (apple, peach, etc.)    
+Evening : vegetable soup / mashed fruit / fruit sauce (apple, peach, etc.)    
 Night : Stage I baby food mix (2-3 scoops)/  rice porridge/ ragi porridge    
 
 
+####Please Note
 > * Salt is not recommended for babies of this age group.
 > * Boiled and cooled water needs to be given to the baby after every solid feed.
 > * Continue breast feeding the baby spaced at about 2-3 hours away from solid feeds.
 
 ###Mashing of food :
-Since a baby of this age doesn't have teeth to chew the food you will need to mash it using a mixer grinder or a food masher and then strain it. Care needs to be taken to try and pass as much food through the strainer as we don't want precious fiber lost in residue.  Alternately, you can just mash it with a spoon if your baby is able to swallow it that way.  
+Since a baby of this age doesn't have teeth to chew the food, you will need to mash it using a mixer grinder or a food masher and then strain it. Care needs to be taken to try and pass as much food through the strainer as we don't want precious fiber lost in residue.  Alternately, you can just mash it with a spoon if your baby is able to swallow it that way.  
 
   
   
@@ -514,30 +526,32 @@ This is the first dal that should to be introduced to the baby as it is light an
 
 
 ##Rice Porridge
-Rice Ganji is effective in relieving the baby from diarrhea. Other re-hydrating solutions are buttermilk, rice ganji, arrow root ganji (use arrow root powder instead of rice and follow the same procedure mentioned below)
+Rice Porridge is good for a baby suffering from diarrhea. Other re-hydrating solutions are buttermilk and arrow root porridge (use arrow root powder instead of rice and follow the same procedure mentioned below).
 
 <IMG SRC="images/rice_porridge.jpg" />
 
 **Ingredients :**   
 
-* Rice 1/2 cup
-* Water 2 cups
-* Few drops of ghee
+> * Rice 1/2 cup
+> * Water 2 cups
+> * Few drops of ghee
 
 
 **Procedure :**   
 
-1. Boil rice with water till rice becomes very soft.
-2. Strain the water, cool and feed it to the baby with a few drops of ghee.
+> 1. Boil rice with water till rice becomes very soft.
+> 2. Strain the water, cool and feed it to the baby with a few drops of ghee.
 
 
+####Please Note
 > * Brown rice is a more nutritious option than the regular polished rice.
-> * When the baby is suffering from diarrhea its helpful to mix a tiny pinch of salt and sugar to the above mentioned Ganji before feeding it to the baby. However, since your baby is just 6 months old please consult your physician before administering salt/sugar mix.
+> * When the baby is suffering from diarrhea it's helpful to mix a tiny pinch of salt and sugar to the above mentioned porridge before feeding it to the baby. However, since your baby is just 6 months old please consult your physician before administering salt/sugar mix.
 > * When you start giving milk to your baby at a later stage you can make the above porridge with milk and a spoon of <a href='#ch_16'>Dry fruit mix </a>to it.     
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
-<li>Brown rice is nutritious as its only partially milled. The husk is removed and the germ layer is left intact.</li> 
+<li>Brown rice is nutritious as it's only partially milled. The husk is removed and the germ layer is left intact.</li> 
 <li>It is rich in Vitamin B1, B3 and B6. It also contains manganese, iron, phosphorus and fiber. </li>
 </ul>
 </blockquote>
@@ -547,14 +561,14 @@ Rice Ganji is effective in relieving the baby from diarrhea. Other re-hydrating 
 ## Mixed Vegetable Soup
 
 
-Soup is a safe drink to keep the stomach healthy and can be given almost every day to the baby. When babies start taking in new and different types of food they sometimes get constipated. Soup being high in fiber provides good roughage to the baby's stomach and gives them some relief from this problem. Carrot gives this soup sweetness while cabbage makes it mildly saline owing to its natural salts. Pudhina leaves give it a minty flavor which serves as a welcome change to the developing taste buds.
+Soup is a safe drink to keep the stomach healthy and can be given almost every day to the baby. When babies start taking in new and different types of food they sometimes get constipated. Soup being high in fiber provides good roughage to the baby's stomach and gives them some relief from this problem. Carrot gives this soup sweetness while cabbage makes it mildly saline owing to its natural salts. Pudina leaves give it a minty flavor which serves as a welcome change to the developing taste buds.
 
 <IMG SRC="images/vegetable_soup.jpg" />
 
 **Ingredients :**
 
 * 2 teaspoons of yellow moong dal
-* Few pieces of bottle Gourd (lauki), carrot and mint (pudhina) leaves 
+* Few pieces of bottle Gourd (lauki), carrot and mint (pudina) leaves 
 * Few drops of lime juice
 
 **Procedure :**
@@ -565,8 +579,10 @@ Soup is a safe drink to keep the stomach healthy and can be given almost every d
 4. Now strain this using a juice strainer. The amount of roughage to keep or leave in the strainer is upto you. You can make the soup as thick as your baby likes.  
 5. Add a few drops of lime juice and serve warm.
 
+####Please Note
 > * Instead of carrot you can use a small piece of yellow pumpkin to sweeten the soup.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Mint leaves are rich in Vitamin A and Vitamin C. Please refer to <a href='#ch_5'>mashed vegetables</a> to know the nutrition value of bottle gourd and carrot.</li>
@@ -590,10 +606,11 @@ and health benefits of apple.
 
 
 ###Avocado : 
-This is the easiest fruit to prepare as its naturally of the right texture. You don't need to cook it or puree it.
+This is the easiest fruit to prepare as it's naturally of the right texture. You don't need to cook it or puree it.
 Spoon out tiny bits of avocado, mash them gently between fingers or with a spoon and feed it to the baby.
 If your baby doesn't seem to like the bland taste you can try adding <a href='#ch_8'>applesauce</a> to sweeten it.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Bananas</b> contain potassium, Vitamin A, Vitamin B6 and Vitamin C, Calcium, Magnesium and Iron. </li> 
@@ -609,6 +626,7 @@ can be peeled, steamed till soft and mashed before feeding the baby.
 
 <IMG SRC="images/mashed_veg_stage1.JPG" />
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Carrot</b> is the best source of Beta-carotene that the body converts to Vitamin A. </li>
@@ -624,6 +642,7 @@ The pods, flowers as well as leaves of Drumsticks have medicinal value.
 
 Drumstick leaves aid lactation in nursing mothers.
 Juice of drumstick leaves can be had with milk every day. This serves as a good tonic for growth and development of children.
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Drumstick leaves</b> are an unbeatable source of Vitamin C, Vitamin A, Calcium, Potassium and Protein. The pods also contain the same but the leaves
@@ -633,7 +652,7 @@ are far more nutritious.</li>
 
 
 ##Ragi Porridge
-Ragi is rich in calcium, iron and protein. Besides being nutritious its also gluten-free  making it an ideal choice for weaning food.
+Ragi is rich in calcium, iron and protein. Besides being nutritious it's also gluten-free making it an ideal choice for weaning food.
 
 
 **Ingredients :**
@@ -649,7 +668,7 @@ Ragi is rich in calcium, iron and protein. Besides being nutritious its also glu
 1. Soak ragi for 12 hours. 
 2. Drain it and leave it in a cloth or a strainer. 
 3. Allow it to sprout for another 12 hrs.
-5. Roast the ragi in a hot wok till the ragi is completely dry. Alternately, spread it on a baking tray and place it in a pre-heated oven at 175 Deg C for 10 - 15 mins (or till its crisp). 
+5. Roast the ragi in a hot wok till the ragi is completely dry. Alternately, spread it on a baking tray and place it in a pre-heated oven at 175 Deg C for 10 - 15 mins (or till it's crisp). 
 Stir it once in between.
 6. Powder it in a mixer jar and pass it through a muslin cloth to sieve out the skin. This powder can now be stored in an air tight container.
 
@@ -663,9 +682,11 @@ Stir it once in between.
 
 
 
+####Please Note
 > * Please mix in more ragi powder  to alter the consistency of the paste as you like.  
 > * You can also use milk instead of water while feeding an older baby (please check with your doctor before starting milk)
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Finger Millet or Ragi is rich in Calcium, Protein and Iron. Sprouting increases the nutritional value of ragi.</li>
@@ -700,13 +721,14 @@ to make it more nutritious. You can add any of the <a href='#ch_h1_3'>recommende
 6. Add few drops of lime juice, ghee and mix well.
 
 
+####Please Note
 > * Make the khichdi of watery consistency when this is initially being introduced to the baby. Going forward you can strain it completely to prevent loss of fiber and essential roughage.  
 > * Instead of carrot you can add a small piece of yellow pumpkin to make the khichdi sweet. Adding both carrot and pumpkin together 
 could increase the nutritive value of the dish but would make it too sweet.
 
 ##Apple Sauce
 
-Apple sauce or Applesauce is a puree made of apples. It contains pectin which tends to make stools firm. Hence its effective in reducing loose motions. Apple once 
+Apple sauce or Applesauce is a puree made of apples. It contains pectin which tends to make stools firm. Hence it's effective in reducing loose motions. Apple once 
 chopped starts turning brown in contact with air. To delay browning you can soak the pieces in some water (actually, lime water is more effective but we don't want 
 to make the apples sour for the baby).
 
@@ -723,14 +745,16 @@ to make the apples sour for the baby).
 1. Peel and chop apple into chunks.
 2. Bring water to boil. Add apple pieces such that the water is just enough
 to cover the apples.
-3. Now cover and cook on sim till apples are tender.  
+3. Now cover and cook on sim heat till apples are tender.  
 4. Drain out the water and mash the apple pieces into a sauce.
 
 
+####Please Note
 > * Do not over cook the apples as they could lose their flavor.
 > * You can make the same sauce with skinned and de-seeded peaches.
 > * Do not give applesauce to a baby suffering from constipation.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Apple is a good source of Dietary fiber, Vitamin A and Vitamin C. </li>
@@ -747,7 +771,6 @@ Please try feeding your baby this dish once or twice before you leave on your jo
 
 <IMG SRC="images/instant_khichdi.JPG" />
 
-
 **Ingredients :**
 
 * 2 tablespoons of yellow moong dal
@@ -762,7 +785,7 @@ Please try feeding your baby this dish once or twice before you leave on your jo
 
 1. Mix the dal and rice. Wash well till the milkiness goes away and dry it in the sun.
 2. Heat ghee and roast this mixture in it for about 5-7 minutes.
-3. The mixture will start turning light brown indicating its done.
+3. The mixture will start turning light brown indicating it's done.
 4. Now cool it and grind it to the desired consistency in a mixer jar.
 5. Store this in an air-tight container and pack it in your travel bag.
 
@@ -774,18 +797,19 @@ When you need to feed the baby, boil a teaspoon of this mix in 1/4 cup water for
 You can float the vessel containing khichdi mix over water that is boiling in an electric cooker. You can also boil water in a stainless steel vessel placed over an induction heater and cook the khichdi mix in a similar manner. These gadgets are useful in a hotel room where you might need to quickly cook something for the baby in a hygienic setting.
 
 
+####Please Note
 > * Add a tiny pinch of salt to the khichdi once baby is older.
 > * This mix has a shelf life of about a week. If you don't roast the dal and rice in ghee the taste becomes a bit bland but you get a longer shelf life.
 
 
 
 
-# **Phase 2 : 8 - 9 months**
+#Phase 2 : 8 - 9 months
 By now the baby is accustomed to having mono cereals like rice or finger millet. Hence, we can move on to giving gluten containing cereals like wheat, oats, barley and semolina. We can also give the baby a combination of different cereals, lentils and dry fruits to provide a balanced diet. 
 
 
 Baby's food needs to have lumps or soft pieces after the age of 8 months so that a smooth transition can be made from purees to solids. 
-This is also around the age when the baby also starts appreciating textures. Hence, its recommended that you avoid feeding the baby with food that is a complete paste. 
+This is also around the age when the baby also starts appreciating textures. Hence, it's recommended that you avoid feeding the baby with food that is a complete paste. 
 Let some lumps be there so the baby can be gradually taught to chew his food.
 Please check with your doctor if you can start external milk at this stage. If permitted, you can use milk instead of boiled water in the porridge recipes.  
 
@@ -797,7 +821,7 @@ Please check with your doctor if you can start external milk at this stage. If p
 Fruit juices are a great way of giving the baby something naturally sweet while increasing the fluid in-take at the same time.
 However, juice is not a substitute for water. You need to continue giving boiled and cooled water after feeding solids to the baby. 
 
-Juice of seasonal fruits like plum, strawberry and orange can sometimes be a bit sour for the baby. On the other hand sweet lime (Musambi), apple and 
+Juice of seasonal fruits like plum, strawberry and orange can sometimes be a bit sour for the baby. On the other hand sweet lime (musambi), apple and 
 melons are not only sweet but also available throughout the year.
 
 Please refer to the <a href='#ch_h1_3'>recommended fruits</a> chart to know which fruits you can juice depending on the age of the baby. 
@@ -807,6 +831,7 @@ adversely affect baby's teeth.
 
 <IMG SRC="images/fruit_juice.JPG" />
 
+####Please Note
 > * Dilute any juice fed to the baby with equal quantity of boiled and cooled water.
 > * Do not add sugar to the juice.
 > * Do not use canned fruits to make juice.
@@ -833,8 +858,10 @@ Barley contains gluten and so we introduce it after the age of 8 months to avoid
 3. Strain and feed water to baby with some lime juice.
 
 
-> * Barley bloats in water so its important to take at least 4 times water as compared to the quantity of barley.
+####Please Note
+> * Barley bloats in water so it's important to take at least 4 times water as compared to the quantity of barley.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Barley is rich in B-Vitamins, essential amino acids and dietary fiber.</li>
@@ -850,7 +877,7 @@ Barley contains gluten and so we introduce it after the age of 8 months to avoid
 
 ###**Melon** : 
 Melons are juicy, delicious fruits that are nearly 90% constituted of water. This makes them easy to digest. 
-They are perfect for extracting juice although its better to have them mashed to preserve the fiber.
+They are perfect for extracting juice although it's better to have them mashed to preserve the fiber.
 Melons are of two types : 
 
 * Water Melon : The skin is green and flesh is red. Seeds are dispersed all over.
@@ -864,16 +891,18 @@ Preparing melons for your baby is really easy:
 
 ###Papaya : 
 Papayas are excellent in relieving constipation. It can cause stools to become yellowish which is all right.
-Skin the papaya and scoop out the seeds. Mash the fruit and its ready to eat. Avoid any white, hard pieces that you might come across.
+Skin the papaya and scoop out the seeds. Mash the fruit and it's ready to eat. Avoid any white, hard pieces that you might come across.
 Orange, soft pieces are sweet to taste and easy to swallow.
 
 ###Citrus Fruits : 
 Oranges could be a bit sour at times so please taste it before feeding the baby.
 You can give the baby juice extracted from orange or musambi. Alternately, you can peel the skin of the fruit, de-seed and remove the skin of the pods too. 
-Extracting the flesh of the fruit could take some effort but its worthwhile as it contains essential dietary fiber that could be lost in extracting the juice.
+Extracting the flesh of the fruit could take some effort but it's worthwhile as it contains essential dietary fiber that could be lost in extracting the juice.
 
+####Please Note
 > * Papaya should be given to the baby in small quantities as it generates body heat.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Melons</b> contain Vitamin A (from Beta Carotene), Vitamin C, Potassium, Dietary Fiber and Folate.
@@ -889,14 +918,14 @@ Watermelon is one of the richest sources of lycopene, a bright red carotene. </l
 
 ###Peas : 
 Avoid using frozen peas that are readily available in supermarkets. Please opt for fresh peas even though they are seasonal.
-Peas should be steamed and mashed before feeding. Remove the skin if its too thick.
+Peas should be steamed and mashed before feeding. Remove the skin if it's too thick.
 
 ###Beans :
 Please use green, french beans that are firm but not hard. Hard ones tend to be really fibrous. 
 You need to trim the ends of the beans and string them before cooking them. 
 
 ###Cauliflower :
-Cauliflower should be cleaned in luke warm water. Only the flowerets should be used and the stems could be used in making vegetable stock.
+Cauliflower should be cleaned in lukewarm water. Only the flowerets should be used and the stems could be used in making vegetable stock.
 The flowerets can be steamed to softness before mashing. Alternately, once the baby grows older you can cook it in milk till it becomes soft.
 
 ###Cabbage :
@@ -909,19 +938,21 @@ Steam the beetroot pieces till soft and mash them before feeding the baby.
 Beetroot could cause the stools to stain which is ok.
 
 ###Capsicum :
-Discard the steam and seeds of the capsicum. Cook the pieces in oil or ghee until tender.
+Discard the stem and seeds of the capsicum. Cook the pieces in oil or ghee until tender.
 Alternately, you can wrap up the capsicum in an aluminium foil and bake it at 180 Deg C for about 20 minutes. 
 Then un-wrap, peel the skin and mash the roasted capsicum. 
 
+####Please Note
 > * Peas / Beans / Cauliflower could cause flatulence (gas) in some babies, so please discontinue in case you observe any symptoms.
 > * Beetroot / Capsicum can have a mildly laxative effect so please avoid if baby is suffering from diarrhea.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Peas</b> are a good source of Vitamin A, Vitamin C, Vitamin B1, Folate, Iron and Phosphorous. They are also rich in protein and fiber.  </li>
 <li><b>Beans</b> contain Vitamin C, Vitamin A, Vitamin K, Calcium, Magnesium, Potassium, Dietary fiber, Folate, Iron and Manganese. </li>
 <li><b>Cauliflower</b> is rich in Vitamin C, Fiber, Folates and B-Vitamins. </li>
-<li><b>Cabbage</b> contains Vitamin B1, Vitamin C, Vitamin K, Vitamin B6, Calcium, Iron, Magnesium, Phosphorous, Potassium. Its also rich in Dietary fiber, Folate and Manganese. </li>
+<li><b>Cabbage</b> contains Vitamin B1, Vitamin C, Vitamin K, Vitamin B6, Calcium, Iron, Magnesium, Phosphorous, Potassium. It's also rich in Dietary fiber, Folate and Manganese. </li>
 <li><b>Beetroot</b> contains in Vitamin C, Potassium, Magnesium and Folate. </li>
 <li><b>Capsicums</b> are rich in Vitamin A (from Beta Carotene), Vitamin C, Vitamin B6 and Folate. Red Bell peppers are sweeter and more nutritious than the green ones. </li>
 </ul>
@@ -949,12 +980,13 @@ The round ball-like shape serves an interesting variation to the regular <a href
 6. Once the mixture comes together, turn it onto a plate greased with ghee.
 7. With wet hands make small round dumplings.
 
+####Please Note
 > * In step 1, you can add a pinch of salt instead of ragi powder once the baby is older and you start giving him salt.
-> * You can feed these dumplings with a few drops of ghee and <a href='#ch_1'>yellow moong dal water</a> so its easy to swallow. 
+> * You can feed these dumplings with a few drops of ghee and <a href='#ch_1'>yellow moong dal water</a> so it's easy to swallow. 
 
 
 ##Pureed Sultanas
-Big Dried Raisins/ Sultanas also known as *Munnaka* in hindi are known to be high in potassium and iron. They also contain fiber hence eating too many can cause diarrhea. On the other hand, when taken in measured quantities its excellent in relieving constipation. If you are unable to find *Munnakas* please substitute them with puree of regular raisins/ *kishmish* or Lotus seeds/ *Makhane* as all these ingredients are helpful in relieving constipation.
+Big Dried Raisins/ Sultanas also known as *Munnaka* in hindi are known to be high in potassium and iron. They also contain fiber hence eating too many can cause diarrhea. On the other hand, when taken in measured quantities it's excellent in relieving constipation. If you are unable to find *Munnakas* please substitute them with puree of regular raisins/ *kishmish* or Lotus seeds/ *Makhane* as all these ingredients are helpful in relieving constipation.
 
 <IMG SRC="images/munakka.JPG" />
 
@@ -972,10 +1004,12 @@ Big Dried Raisins/ Sultanas also known as *Munnaka* in hindi are known to be hig
 4. Now puree them and add in required quantity to baby's food.
 
 
-> * The pureed sultana is to be added onto baby's food. **Its not meant to be given as a dish in itself **as that can cause diarrhea.
+####Please Note
+> * The pureed sultana is to be added onto baby's food. **It's not meant to be given as a dish in itself **as that can cause diarrhea.
 > * Consult your doctor before adding small quantities of pureed sultanas to <a href='#ch_7'>baby's khichdi</a>, <a href='#ch_3'>soup</a> or <a href='#ch_10'>juice</a> to relieve constipation. 
 > * If you can not find sultanas, you can use a prune or a couple of raisins instead. Be careful not to exceed the quantity specified as it could otherwise result in a diarrhea.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>All raisins are rich in anti-oxidants, phytonutrients and dietary fiber. However they are lower in Vitamin C than fresh grapes.</li>
@@ -1008,10 +1042,12 @@ A teaspoon of this mix can be added to porridges along with a couple of raisins 
 3. Store in an air tight container.
 
 
+####Please Note
 > * Use unsalted dry fruits. You can add a 1/2 - 1 teaspoon of this mix to any porridge you make for the baby.
 > * You can not keep this mix for more than 2 - 3 weeks as dry fruits release their natural oils and tend to smell soon after.
 > * Never feed your baby whole nuts as it poses a major **choking hazard**.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Although nuts are high-fat food they mostly contain healthy unsaturated fats.</li>
@@ -1023,7 +1059,7 @@ A teaspoon of this mix can be added to porridges along with a couple of raisins 
 ##Semolina Halwa
 
 Semolina (or rawa) halwa is a popular sweet dish made by cooking roasted semolina in hot water. 
-However, here its made without any sweetener as the baby at this stage is not ready for it. My baby loves this halwa with sugar 
+However, here it's made without any sweetener as the baby at this stage is not ready for it. My baby loves this halwa with sugar 
 in it. Small amounts of sugar is permitted for her as she is above the age of one.
 
 <IMG SRC="images/rawa_halwa.jpg" />
@@ -1049,6 +1085,7 @@ in it. Small amounts of sugar is permitted for her as she is above the age of on
 6. Add previously fried raisins, cover it and let it cook on sim heat for few minutes.
 7. Turn off the heat and serve the halwa warm to the baby.
 
+####Please Note
 > * This semi-solid mixture is good for babies during summers or when they are running a temperature.
 > * You can use milk instead of water once the baby is above 9 months. At that stage you can also add a teaspoon of jaggery to the water/milk while boiling it.
 > * Once the baby is over a year old you can use sugar to sweeten the halwa (please check with doctor before introducing sugar).
@@ -1080,12 +1117,14 @@ If your baby doesn't have a sweet tooth you can use bottle gourd instead.
 4. Continue to cook till mixture comes together.
 5. Turn off the heat. Mash and serve the halwa warm.
 
+####Please Note
 > * You can make beetroot, pumpkin, sweet potato or bottle gourd halwa in the same method as above.
 > * You can also add <a href='#ch_16'>dry fruit mix</a> to this halwa before serving.
-> * Once the baby is over 10 months old you can add 1/2 teaspoon of jaggery and 1 tablespoon of thickened milk to this halwa for a better taste.  (thickened milk is not condensed milk. Its milk which is boiled and reduced to half. It does not contain any sugar.)
+> * Once the baby is over 10 months old you can add 1/2 teaspoon of jaggery and 1 tablespoon of thickened milk to this halwa for a better taste.  (thickened milk is not condensed milk. It's milk which is boiled and reduced to half. It does not contain any sugar.)
 > * Please go easy on those raisins. They are rich in calcium and fiber hence having too many in a day could cause diarrhea.
 
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Carrots are rich in Beta-carotene which the body converts to Vitamin A. Orange carrots are more nutritious than red ones.</li>
@@ -1126,7 +1165,7 @@ It is particularly good for breakfast as it contains vital nutrients that the ch
 2. Wash wheat and rice grains.
 3. Dry wheat, rice along with moong dal, ragi and soya bean sprouts by patting them with a dry cloth.  
 4. Roast them in a hot wok till completely dry. Alternately, spread the grains on a baking tray and place it in a pre-heated oven at 175 Deg C. Ragi will take about 10 - 15 mins to dry (stir once in between).  Moong dal and soya beans being larger grains will take about 30 - 35 mins to dry (stir every 10 mins). Ensure that you spread the grains evenly on the surface area of the baking tray without any overlap.  
-5. Once cool, grind all the grains together into a powder in a mixie jar.  Fried Gram doesn't need to be washed and roasted. It can directly be ground along with the mix eventually.
+5. Once cool, grind all the grains together into a powder in a mixer jar.  Fried Gram doesn't need to be washed and roasted. It can directly be ground along with the mix eventually.
 6. Store this mix in an airtight container.  
 
 
@@ -1137,10 +1176,11 @@ It is particularly good for breakfast as it contains vital nutrients that the ch
 3. Cool and serve the baby.
  
 
- > * Its not recommended to add dry fruits to this mixture during preparation as they tend to release their natural oils and the mixture could have a reduced shelf life.
+ > * It's not recommended to add dry fruits to this mixture during preparation as they tend to release their natural oils and the mixture could have a reduced shelf life.
  However, you can add a previously prepared <a href='#ch_16'>Dry fruit mix</a> to the porridge while serving. 
 
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Whole Wheat</b> contains good levels of dietary fiber and manganese.</li>
@@ -1195,9 +1235,11 @@ This is the porridge that my baby loves the most. I make it for her at least onc
 2. Ensure no lumps are formed. Simmer for about 4-5 mins.
 3. Add Dry fruit Mix and serve warm with a few drops of ghee.
 
+####Please Note
 > * You can use milk instead of water when you start external milk for your baby, once he is older.
 > * If you are unable to grind the oats into a powder then cook them as usual and strain the porridge after cooking.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Oats is one of the best sources of soluble fiber and protein.</li>
@@ -1229,13 +1271,14 @@ This is the porridge that my baby loves the most. I make it for her at least onc
 
 
 
+####Please Note
 > * While cooking the porridge in step 2, use milk instead of water when your baby is older and you start giving him external milk.  
 > * This porridge provides good relief to babies suffering from loose motions.  
 
 
 ##Ragi Idly
 
-This is one of the most nutritious idlies possible as its made from sprouted ragi which is rich in protein. This is also why it makes it a filling dish, heavier than the usual rice idlies we eat.  
+This is one of the most nutritious idlies possible as it's made from sprouted ragi which is rich in protein. This is also why it makes it a filling dish, heavier than the usual rice idlies we eat.  
 
 <IMG SRC="images/ragi_idly.JPG" />
 
@@ -1245,7 +1288,7 @@ This is one of the most nutritious idlies possible as its made from sprouted rag
 * 1 cup whole grain ragi (finger millet)
 * 1 cup idly rice
 * 3/4 cup skinned urad dal (white whole grains)
-* 1 teaspoon methi seeds 
+* 1 teaspoon fenugreek (methi) seeds   
 * Few drops of ghee
 
 
@@ -1262,10 +1305,12 @@ This is one of the most nutritious idlies possible as its made from sprouted rag
 8. Steam the idlies for 10 - 15 minutes on medium heat.
 9. Mash and feed warm with ghee and dal.
 
+####Please Note
 > * Dipping idly in dal before feeding makes it easier for the baby to swallow it.
 > * You can add <a href='#ch_h1_3'>recommended vegetables</a> like beans, carrot and capsicum to the dal to make it more nutritious. 
 > * The <a href='#ch_1'>dal</a> used can be moong or toor based on your baby's taste.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Ragi idlies are more nutritious than rice idlies. Ragi is rich in calcium and protein. Using sprouted ragi increases its nutritional value. </li>
@@ -1291,6 +1336,7 @@ This is one of the most nutritious idlies possible as its made from sprouted rag
 4. Sprinkle a few drops of ghee on the dosa. Let it cook on medium heat till it becomes golden brown.
 
 
+####Please Note
 > * Once the baby is older you can add a pinch of salt to the batter.
 
 
@@ -1330,7 +1376,7 @@ For making Paniyaram or Mini Fried Idlies you need to get a stand which resemble
 1. Grease the molds with ghee. Add mustard seeds and let them crackle.
 2. Fill batter in each mold.
 3. Garnish with grated carrot, finely cut tomatoes and coriander leaves. Cover the mold with lid.
-4. Cook each idly for about 5-7 mins on sim. Flip over, put back the lid and continue frying the other side.
+4. Cook each idly for about 5-7 mins on sim heat. Flip over, put back the lid and continue frying the other side.
 
 
 **Variation :**
@@ -1338,13 +1384,14 @@ For making Paniyaram or Mini Fried Idlies you need to get a stand which resemble
 If this dish is being made for adults :
 
 1. You can add some more salt, finely chopped onions, green chillies and grated ginger to the dosa batter. You can temper the idlies with rai, channa dal and curry leaves. Use oil instead of ghee here.
-2. Please try to use dosa batter thats slightly sour. In other words, you can use up the previous days leftover batter.
+2. Please try to use dosa batter that's slightly sour. In other words, you can use up the previous days leftover batter.
  
 
 
+####Please Note
 > * Try to use a non-stick mold as otherwise you will need to pour ghee from the sides after filling batter into the molds.
 > * My stand's manual advised me to use it only on low flame. Please read instructions on your stand before using.
-> * Prick a toothpick in the center of the mini fried idly. Check if it comes out clean. If so, its cooked completely and ready to eat.  Else, put it back in the mould and steam it for few more minutes.
+> * Prick a toothpick in the center of the mini fried idly. Check if it comes out clean. If so, it's cooked completely and ready to eat.  Else, put it back in the mould and steam it for few more minutes.
 > * You can use finely chopped spring onion or mint leaves instead of coriander leaves for a different taste.
 
 
@@ -1358,6 +1405,7 @@ Other finger foods that can be given at this age are small pieces of boiled bean
 
 <IMG SRC="images/baby_puffed_rice.jpg" />
 
+####Please Note
 > * Ensure you get a soft variety of puffed rice which is easy to swallow. Try to melt one in your mouth before feeding the baby. 
 > * Finger foods need constant monitoring! Please watch the baby so he does not stuff too many pieces at once.   
 
@@ -1382,9 +1430,11 @@ Other finger foods that can be given at this age are small pieces of boiled bean
 4. Heat oil and crackle mustard seeds in it.
 5. Pour tempering over the curd rice.
 
-> * Do not use cold / refrigerated curd. Its best to use freshly set curd.
+####Please Note
+> * Do not use cold / refrigerated curd. It's best to use freshly set curd.
 > * You can add finely chopped coriander leaves, grated cucumber or carrot to increase the nutritional value of this dish.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Curd is rich in Calcium and contains the bacteria lactobacillus which aids digestion. </li>
@@ -1393,7 +1443,7 @@ Other finger foods that can be given at this age are small pieces of boiled bean
 
 ##Thin Roti layers
 
-This is the time you can feed the baby the same rotis you make for yourself. Its a good break from always making separate food for the baby. You can make your regular rotis with preferably no salt in the dough. Once the roti is ready you need to tear off the thin layer on top of the roti and mash it between your fingers before feeding the baby. My 9 month old would dive like a fish to grab each of these bites.  
+This is the time you can feed the baby the same rotis you make for yourself. It's a good break from always making separate food for the baby. You can make your regular rotis with preferably no salt in the dough. Once the roti is ready you need to tear off the thin layer on top of the roti and mash it between your fingers before feeding the baby. My 9 month old would dive like a fish to grab each of these bites.  
 
 
 <IMG SRC="images/roti_layers.JPG" />
@@ -1415,8 +1465,9 @@ This is the time you can feed the baby the same rotis you make for yourself. Its
 6. Mash this layer between your fingers, mix with <a href='#ch_1'>Moong dal water</a> and serve warm to the baby with some ghee. 
 
 
-> * Step 2 - rolling the dough with even thickness, is an important step as uneven thickness  causes the thinner areas to get cooked faster than the thicker ones. Hence the roti might not puff up on roasting. Even if a roti is rolled out thick its important that it puffs up on roasting directly over heat. The heat contained in steam is high and it ensures that the roti cooks evenly.
-> * In case you don't want to puff the roti directly over heat you can also try pressing it with a cloth once its cooked on both sides. (please be careful not to burn your fingers!)
+####Please Note
+> * Step 2 - rolling the dough with even thickness, is an important step as uneven thickness  causes the thinner areas to get cooked faster than the thicker ones. Hence the roti might not puff up on roasting. Even if a roti is rolled out thick it's important that it puffs up on roasting directly over heat. The heat contained in steam is high and it ensures that the roti cooks evenly.
+> * In case you don't want to puff the roti directly over heat you can also try pressing it with a cloth once it's cooked on both sides. (please be careful not to burn your fingers!)
 
 
 
@@ -1426,7 +1477,7 @@ This is the time you can feed the baby the same rotis you make for yourself. Its
 Upma can be made from a variety of base ingredients like semolina, wheat/rice/ragi vermicelli, brown/white beaten rice, etc. Using your child's favorite vegetables and alternate base ingredients you can creatively make an upma to suit your baby.
 
 
-Brown beaten rice is a nutritive option. Its made from <A HREF="http://en.wikipedia.org/wiki/Brown_rice">brown rice</A> which is partly milled. Only the husk is removed whereas the bran and germ layers are intact. The healthiest option of base ingredient is ragi vermicelli although it might not taste as good as the wheat or rice varieties. 
+Brown beaten rice is a nutritive option. It's made from <A HREF="http://en.wikipedia.org/wiki/Brown_rice">brown rice</A> which is partly milled. Only the husk is removed whereas the bran and germ layers are intact. The healthiest option of base ingredient is ragi vermicelli although it might not taste as good as the wheat or rice varieties. 
 
 **Ingredients :**
 
@@ -1442,16 +1493,17 @@ Brown beaten rice is a nutritive option. Its made from <A HREF="http://en.wikipe
 2. Heat ghee. Crackle cumin seeds in it.  
 3. Add carrot, beans, peas and cabbage. Fry till vegetables soften.
 4. Add the soaked poha and  coriander leaves to it and mix well.  
-5. Cook on sim for few more minutes. Mash and serve warm to the baby.
+5. Cook on sim heat for few more minutes. Mash and serve warm to the baby.
 
 
-> * There are many varieties of beaten rice. Here we have used the thin one as its soft and easy to swallow. Alternately, you can use the thick variety by just increasing the soaking time.  
+####Please Note
+> * There are many varieties of beaten rice. Here we have used the thin one as it's soft and easy to swallow. Alternately, you can use the thick variety by just increasing the soaking time.  
 > * The brown beaten rice is a more nutritious option as compared to the white one.
 > * Once the baby is older you can add a pinch of salt to any upma that you make for him.
 
 **Alternate Upma varieties : ** Instead of beaten rice -
 
- * you can use 1/4 cup of roasted fine semolina or *chiroti rawa*. Temper in the same method as mentioned above and add a cup of boiling water. Cover and cook on sim for few minutes.
+ * you can use 1/4 cup of roasted fine semolina or *chiroti rawa*. Temper in the same method as mentioned above and add a cup of boiling water. Cover and cook on sim heat for few minutes.
 
  * you can use 1/4 cup of wheat / ragi / rice vermicelli. Boil the vermicelli in sufficient water and drain. Temper in the same method as mentioned above and add the cooked vermicelli. 
 
@@ -1464,14 +1516,14 @@ Brown beaten rice is a nutritive option. Its made from <A HREF="http://en.wikipe
 
 
 
-# **Phase 3 : 10 - 12 months**
+#Phase 3 : 10 - 12 months
 
 You can add a bit of salt  / jaggery for taste at this stage. You can also start using milk for porridges ( formula or cow's milk ). However, please consult your doctor before introducing these new ingredients.
 You can make all the porridges mentioned in the Phase 1 and Phase 2 sections, like <a href='#ch_2'>rice</a>, <a href='#ch_6'>ragi</a>, <a href='#ch_17'>semolina</a>, <a href='#ch_21'>oats</a>, <a href='#ch_22'>sabudana</a>, etc. replacing water with equal quantity of milk and adding a little jaggery. 
 
 In this phase you need not mash the food completely. Allow soft granules and lumps in the texture as babies at this age have an urge to chew.
-Please try to use organic jaggery to prepare baby's food. This jaggery is made from sugarcane that was organically grown, so its free from pesticides and other harmful chemicals. 
-Also, while preparing organic jaggery when the sugarcane juice was being concentrated no harmful chemicals (like sulphur compounds) were added to harden it or sweeten it in any way.  When in doubt, you can test the jaggery by boiling it in a little bit of water. No yellow froth will appear if its clean.
+Please try to use organic jaggery to prepare baby's food. This jaggery is made from sugarcane that was organically grown, so it's free from pesticides and other harmful chemicals. 
+Also, while preparing organic jaggery when the sugarcane juice was being concentrated no harmful chemicals (like sulphur compounds) were added to harden it or sweeten it in any way.  When in doubt, you can test the jaggery by boiling it in a little bit of water. No yellow froth will appear if it's clean.
 
 <IMG SRC="images/organic_jaggery.jpg" />
 
@@ -1482,21 +1534,24 @@ Also, while preparing organic jaggery when the sugarcane juice was being concent
 ###Mango : 
 Mango is a delicious tropical fruit that is also known as the 'King of Fruits'. It aids in absorption of iron so it helps to serve it along with other iron-rich food.
 
-The best way to prepare a mango dish is to skin it and cut out the flesh thats further away from the seed. 
+The best way to prepare a mango dish is to skin it and cut out the flesh that's further away from the seed. 
 The fruit pieces can then be mashed or pureed with milk to be served as a yummy milk shake.
 Avoid using mangoes that are fibrous otherwise they will have to be strained and used.
-You will need to taste a piece to ensure its sweet as a partly sour one could cause a bad throat.
+You will need to taste a piece to ensure it's sweet as a partly sour one could cause a bad throat.
+####Please Note
 > * If you find baby's motions becoming runny or if you suspect a nappy rash as result of feeding mangoes please discontinue immediately.
 > * Avoid Mango if baby is suffering from diarrhea. 
 
 
 ###Sapodilla (Sapota): 
-Sapota or *Chiku* as its locally known in some places, is also a tropical fruit. You need to pick sapotas that are soft and have a light brown flesh. 
-These are the ones that are sweet and easy to swallow. Avoid sapotas that are hard on pressing or have a flesh thats slightly white.
+Sapota or *Chiku* as it's locally known in some places, is also a tropical fruit. You need to pick sapotas that are soft and have a light brown flesh. 
+These are the ones that are sweet and easy to swallow. Avoid sapotas that are hard on pressing or have a flesh that's slightly white.
 It needs to be peeled and de-seeded. It can then be mashed and served.
 
+####Please Note
 > * Avoid Sapota if baby is suffering from diarrhea.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Mango</b> contains Vitamin C, Vitamin E, Vitamin B6, Potassium, Copper, Fiber and Vitamin A (from Beta Carotene).</li>
@@ -1511,14 +1566,14 @@ It needs to be peeled and de-seeded. It can then be mashed and served.
 
 ###Tomato :
 Tomato can be introduced only after the age of 10 months as they are quite acidic in nature and can cause reactions like rash in nappy area or around the mouth.
-Tomatoes should not be fed raw. Its always better to cook them before feeding as it reduces the chances of any reactions.
+Tomatoes should not be fed raw. It's always better to cook them before feeding as it reduces the chances of any reactions.
 
 You can finely chop tomatoes and cook them in a little bit of oil/ghee. Alternately, you can boil and mash them to make a soup.
 You need not necessarily peel them but if you want to, you can just blanch them for a minute in boiling hot water followed by a dip in ice cold water.
 This will make the skin peel right off and you can then use the mashed tomato in your cooking.
 
 ###Spinach :
-Spinach contains high level of nitrates. Hence, its advisable to wait until the baby is 10 months of age before introducing it.
+Spinach contains high level of nitrates. Hence, it's advisable to wait until the baby is 10 months of age before introducing it.
 Although Spinach is rich in Calcium and Iron, the oxalates in spinach inhibit their absorption by the body. 
 
 To prepare spinach you need to start with washing it well. You can immerse it in a big bowl of water and gently rub it till the dirt 
@@ -1527,7 +1582,7 @@ Trim and discard any thick stems along with the roots. Use only fresh, green ten
 You can finely chop the leaves and cook them in a wok till they become soft. You can then puree them and serve. 
  
 ###Lady's finger :
-Lady's finger or Okra as its commonly known, is a vegetable that needs careful selection. Its always advisable to pick small, thin and 
+Lady's finger or Okra as it's commonly known, is a vegetable that needs careful selection. It's always better to pick small, thin and 
 tender fingers as compared to the hard, longer ones. You need to trim off the head and tail of the okra and chop it into small pieces.
 Ensure the Okra selected doesn't have big seeds or fibrous skin. The sliminess in Okra helps relieve constipation.
 
@@ -1536,7 +1591,7 @@ To prepare Okra you need to just sauté it in a little bit of oil or ghee till i
 ###Eggplant :
 Eggplant or Brinjal is available in a variety of forms - large, purple ones, baby-sized ones and even thin, green ones. You can select any one 
 you like as long as they are firm and don't have big seeds. Check for a dark, black spot on the surface on the brinjal. A point at which 
-the brinjal looks like it has been pressed. If it has one, its possible that the brinjal has a tiny worm in it. Please avoid using any such brinjals.
+the brinjal looks like it has been pressed. If it has one, it's possible that the brinjal has a tiny worm in it. Please avoid using any such brinjals.
 
 The large, purple ones can be roasted directly over flame. You can then
 remove the stem and peel it soon after. Mash up the soft flesh and sauté it further in some olive oil before serving.
@@ -1544,9 +1599,11 @@ The smaller varieties of brinjal can be peeled after removing the stem. You can 
 sauté them in some oil till soft.
 
 
+####Please Note
 > * Avoid Okra if baby is suffering from diarrhea.
 > * Eggplant can sometimes cause flatulence (gas) in babies. Please discontinue in case you observe any symptoms.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li><b>Tomato</b> contains Vitamin A (from Beta Carotene), B-Vitamins, Vitamin C, Vitamin K, Fiber, Iron and Potassium </li>
@@ -1575,9 +1632,11 @@ sauté them in some oil till soft.
 
 
 
+####Please Note
 > * Amaranth seeds are free of gluten which is a plus point for babies with gluten allergy.
 > * If you are not using the jaggery laddu and are directly roasting the Amaranth seeds you can feed this porridge to the baby at the age of 8-9 months itself.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Amaranth seeds are a good source of protein and dietary fiber. </li>
@@ -1601,13 +1660,14 @@ sauté them in some oil till soft.
 **Procedure :**
 
 1. Remove the edges of the bread slice. Cut the slice into 4 pieces.
-2. Blend banana, cinnamon powder, jaggery and milk in a mixie jar.  
+2. Blend banana, cinnamon powder, jaggery and milk in a mixer jar.  
 3. Strain, if the paste has lumps.
 4. Dip bread pieces into the paste and fry in ghee until golden brown. Drain on a tissue paper.
 5. Mash with your fingers and serve the baby.
 
+####Please Note
 > * You can use Ragi bread instead of Whole Wheat Bread for a more nutritious meal.
-> * Instead of cinnamon powder you can use a drop of vanilla essence in Step 2. That will make your french toast taste more like cake.
+> * Instead of cinnamon powder you can use a drop of vanilla essence in Step 2. That will make your French toast taste more like cake.
 
 
 ##Cough Relief Drink
@@ -1625,14 +1685,16 @@ This drink gives good relief to babies suffering from cough. It can also be had 
 
 **Procedure :**
 
-1. Boil milk with turmeric, tulsi leaves and rock sugar. Stir well and cook on sim for about 5 minutes. 
+1. Boil milk with turmeric, tulsi leaves and rock sugar. Stir well and cook on sim heat for about 5 minutes. 
 2. Add grated ginger and boil for another minute. 
 3. Strain the milk. Feed it warm to your baby to give him relief from cold/cough.  
 
+####Please Note
 > * Don't boil the ginger too much as the milk could split.
 > * Ensure that the tulsi leaves and ginger are washed well as impurities could also cause the milk to split.
-> * Since you cooked the milk till boiling hot you need to check the temperature before feeding it to the baby. Ensure its neither too hot nor completely cold. Warm milk gives most relief.
+> * Since you cooked the milk till boiling hot you need to check the temperature before feeding it to the baby. Ensure it's neither too hot nor completely cold. Warm milk gives most relief.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>
@@ -1666,17 +1728,18 @@ Turmeric a good source of Iron, Manganese, Potassium, Vitamin C and Vitamin B6.
 5. Separately boil milk with jaggery till it dissolves completely.  
 6. Add the sweetened milk into the roasted wheat flour. Stir continuously, till the mixture becomes pasty and has no lumps.
 7. Mix in the previously fried raisins and turn off the heat.
-8. Once cool, you can add mashed banana (small variety)/ cheeku/ grapes/ steamed apple to the halwa.
+8. Once cool, you can add mashed banana (small variety)/ sapota/ grapes/ steamed apple to the halwa.
 
 
+####Please Note
 > * You can use fine rawa / semolina instead of wheat flour in this halwa.
-> * You can also add a teaspoon of <a href='#ch_16'>Dry Fruit Mix</a> to the halwa once its ready. 
+> * You can also add a teaspoon of <a href='#ch_16'>Dry Fruit Mix</a> to the halwa once it's ready. 
 
 
 
 
 ##Sprouted Dalia kheer
-Sprouted Broken wheat appears as dry short granules of wheat. Its commonly available in organic food stores. Its a healthier option as compared to plain broken wheat (*dalia* in Hindi). You can also try to <FONT COLOR="#0000ff"><U><A HREF="http://www.doctorgrandmas.com/library/wheat-berries/how-to-sprout-wheat/">sprout wheat grains</A></U></FONT> yourself. This takes about 2-3 days and a bit of effort in changing the water from time to time. However, freshly sprouted wheat is a far healthier option. Once wheat germinates, grind it and roast the paste in ghee till its dry. Add boiled milk and follow the rest of the procedure in the same manner as given below. If you grind the wheat germs fine and don't thicken the milk too much it can also be had as a healthy drink, not only for babies but also for adults. Please remember that whatever quantity of wheat seeds you take it will swell to four times on germinating.
+Sprouted Broken wheat appears as dry short granules of wheat. It's commonly available in organic food stores. It's a healthier option as compared to plain broken wheat (*dalia* in Hindi). You can also try to <FONT COLOR="#0000ff"><U><A HREF="http://www.doctorgrandmas.com/library/wheat-berries/how-to-sprout-wheat/">sprout wheat grains</A></U></FONT> yourself. This takes about 2-3 days and a bit of effort in changing the water from time to time. However, freshly sprouted wheat is a far healthier option. Once wheat germinates, grind it and roast the paste in ghee till it's dry. Add boiled milk and follow the rest of the procedure in the same manner as given below. If you grind the wheat germs fine and don't thicken the milk too much it can also be had as a healthy drink, not only for babies but also for adults. Please remember that whatever quantity of wheat seeds you take it will swell to four times on germinating.
 
 <IMG SRC="images/dalia_kheer.jpg" />
 
@@ -1698,9 +1761,10 @@ Sprouted Broken wheat appears as dry short granules of wheat. Its commonly avail
 4. Grind cardamom seeds and add to the kheer.
 5. Strain and feed warm to the baby.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
-<li>Broken wheat is an excellent source of fiber since it contains both bran and germ layers. Its more nutritious 
+<li>Broken wheat is an excellent source of fiber since it contains both bran and germ layers. It's more nutritious 
 to use sprouted broken wheat in which wheat grains have been germinated, dried and then broken into short granules.
 </li>
 </ul>
@@ -1721,7 +1785,7 @@ Other than this you can place pieces of cheese, fried gram, low-sugar biscuits l
 ##Green Moong Chaat
 
 Once moong dal is soaked and boiled it serves as a great pick-n-eat dish for the baby. Gently mash each grain between your fingers and place in front of the baby to eat on his own. If your baby (like mine) loves to put everything in the mouth this is definitely going to be a treat.
-You just need to ensure that he doesn't stuff in too many at once. If your baby isn't able to eat on his own its really ok. You can mash and feed him the grains as well. Just that allowing him to eat himself is helpful in making him independent.
+You just need to ensure that he doesn't stuff in too many at once. If your baby isn't able to eat on his own it's really ok. You can mash and feed him the grains as well. Just that allowing him to eat himself is helpful in making him independent.
 
 <IMG SRC="images/moong_chaat.jpg" />
 
@@ -1742,12 +1806,14 @@ You just need to ensure that he doesn't stuff in too many at once. If your baby 
 3. Heat oil. Crackle the cumin seeds and add a pinch of asafetida.
 4. Now add the moong dal and cook over sim till the dal dries up.
 5. Add black salt and jaggery and stir well.  
-6. Cover the pan and continue to cook for 5 more minutes on sim.
+6. Cover the pan and continue to cook for 5 more minutes on sim heat.
 7. Now turn off the heat. Gently Mash moong dal with a spoon and serve it with curd (optional).
 
 
+####Please Note
 > * This is a great breakfast for adults as well. You just need to use regular salt and avoid the jaggery in this recipe. You can also use onion in the tempering and enjoy this nutritious chaat with curd and sweet tamarind chutney.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Try not to discard the water that remains after boiling the moong dal in Step 2. Use it in making soup or kneading chappati dough so as to 
@@ -1772,18 +1838,20 @@ not lose out on its nutrition.</li>
 
 1. Place the cheese and tomato pieces between the slices of bread and make a sandwich.
 2. Heat a pan. Apply butter on the outer sides of the sandwich.
-3. Toast the sandwich on sim for a few minutes on each side.
+3. Toast the sandwich on sim heat for a few minutes on each side.
 4. Cut the edges of the sandwich. Mash the sandwich between your fingers and feed the baby. 
 
 
 
+####Please Note
 > * Do not over toast the sandwich. We don't want a very hard, crunchy exterior as that might hurt the baby's mouth. We only want enough heat to melt the cheese.
 > * Do not press the sandwich while toasting as that spoils the taste of the bread.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Whole wheat bread is rich in dietary fiber and manganese. </li>
-<li>Cheese is an excellent source of protein, calcium and phosphorus thats good for development of teeth and bones.</li>
+<li>Cheese is an excellent source of protein, calcium and phosphorus that's good for development of teeth and bones.</li>
 </ul>
 </blockquote>
 
@@ -1815,13 +1883,15 @@ Also, this is one of those no-cook dishes which can be made on-the-run.
 4. Serve warm with a few drops of ghee.
 
 
+####Please Note
 > * This dish is really helpful while travelling. Since it doesn't require any cooking it can be made anywhere as long as you carry the ingredients (or at least the main ones like beaten rice and jaggery)
 > * If your baby is not comfortable swallowing the thick poha variety please reduce the soaking time and use the thin variety of poha.
 > * If this dish is being made for adults you can mix in 2 teaspoons of freshly grated coconut before serving.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
-<li>Using Brown beaten rice is a healthier option as its made from <a href="http://en.wikipedia.org/wiki/Brown_rice">brown rice</a> which is only partly milled. Hence, the bran and germ layers are 
+<li>Using Brown beaten rice is a healthier option as it's made from <a href="http://en.wikipedia.org/wiki/Brown_rice">brown rice</a> which is only partly milled. Hence, the bran and germ layers are 
 present making it rich in dietary fiber and manganese. It also contains selenium, magnesium, protein and a wide range of vitamins.</li>
 </ul>
 </blockquote>
@@ -1844,9 +1914,10 @@ present making it rich in dietary fiber and manganese. It also contains selenium
 
 1. Soak green moong dal till soft. Drain and grind it into a paste.
 2. Heat ghee, fry moong dal paste till cooked.  Stir continuously otherwise the paste might stick to the bottom of the pan.
-3. Add cardamom seed powder,  milk and jaggery. Cook on sim till the payasam thickens. If required, add more milk to get desired consistency.
+3. Add cardamom seed powder,  milk and jaggery. Cook on sim heat till the payasam thickens. If required, add more milk to get desired consistency.
 
 
+####Please Note
 > * This same payasam can be made for adults by replacing a cup of milk with 1/2 cup of coconut milk and 1/2 cup of milk in the 3<SUP>rd</SUP> step. In this case, the jaggery quantity can be increased or replaced with sugar as per taste.
 
 
@@ -1871,6 +1942,7 @@ This porridge helps relieve babies of constipation.
 3. Sprinkle cardamom seed powder in the porridge and serve.
 
 
+####Please Note
 > * Don't boil raisins with milk. If raisins are sour the milk could curdle.
 > * If the sultanas are sufficiently sweet you can skip the jaggery.
 > * If your baby is suffering from constipation you can add pureed sultanas to any food you are feeding him like <a href='#ch_7'>khichdi</a>, soup, juce, etc.
@@ -1943,13 +2015,14 @@ and store the rest in an air tight container.
 5. Flip the pancake and cook the other side as well.
 
 
-> * If you try to flip the pancake before its cooked completely it will break.
+####Please Note
+> * If you try to flip the pancake before it's cooked completely it will break.
 > * You can thoroughly mix a teaspoon of finely grated carrot in the batter, to increase its nutritive value.
 > * You can also use designer pancake griddles. This is useful when the baby grows older and appreciates shapes.
 
 
 
-# **Phase 4 : Above 12 months**
+#Phase 4 : Above 12 months
 Congratulations!! Your baby is now one year old. You have successfully reached the end of a long year which raises doubts on what to feed. Now your baby can eat everything you make for yourself with the exception of things that are too oily or spicy. From here on, it also becomes a little easier to travel as you can start giving some bland, steamed dishes like idlies or plain rice when you go out. Just ensure not to give the baby water, milk, curd, chutneys, sprouts or anything uncooked from restaurants.  
 Here I've provided some healthy options for your baby at this stage. I hope you have enjoyed the journey so far. Your little one is soon going to make you run all over the house so please take good care of yourself as well.  
 
@@ -1981,8 +2054,10 @@ Here I've provided some healthy options for your baby at this stage. I hope you 
 4. Add salt, water and pressure cook in the same manner as rice.
 5. Before serving you can add a few drops of lime juice and finely chopped coriander leaves. Mash and serve warm to the baby.
 
+####Please Note
 > * Use sprouted broken wheat to make this dish even more nutritious.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>See <a href='#ch_36'>sprouted dalia kheer</a> for nutrition value of broken wheat.</li>
@@ -2000,7 +2075,7 @@ Alternately, it can be mixed with rice and served.
 
 **Ingredients :**
 
-* 1/2 cup mint leaves (pudhina)
+* 1/2 cup mint leaves (pudina)
 * 1/2 cup coriander leaves (dhania)
 * 1/4  teaspoon cumin seeds (jeera)
 * A pinch of asafetida (hing)
@@ -2012,9 +2087,11 @@ Alternately, it can be mixed with rice and served.
 1. Wash the mint leaves and coriander leaves thoroughly in water 2-3 times.
 2. Grind it along with cumin seeds, asafetida, black salt and tomato.
 
+####Please Note
 > * You can also add a few drops of lemon juice for a fresh taste.
 > * For adults you can add some green chillies (as per taste) while grinding the chutney.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>
@@ -2069,10 +2146,12 @@ We have also added some ginger, garlic, carom and cumin seeds to enhance the fla
 7. Flip over and cook the other side as well till you get a golden color on both sides.
 
 
+####Please Note
 > * If you are making these parathas for adults you can grind a couple of green chillies along
 with the palak paste.
 > * You can make methi (fenugreek leaves) parathas the same way. These parathas are a bit bitter so they might be relished more by adults than by babies.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Spinach contains Vitamin A, C, E and K. It also contains Folates, Protein, Iron, Calcium and a wide range of minerals.</li>
@@ -2080,7 +2159,7 @@ with the palak paste.
 </blockquote>
 
 ##Homemade paneer
-Although paneer or cottage cheese is readily available in the market today its advisable to make paneer at home for your baby. Paneer is a milk product that gets spoilt easily in heat.  During summer months when its being delivered to stores or when there are power cuts, the heat could ruin it. This could in turn cause a stomach infection. Hence, fresh homemade paneer is the best.  So is curd or any other milk product.  
+Although paneer or cottage cheese is readily available in the market today it's advisable to make paneer at home for your baby. Paneer is a milk product that gets spoilt easily in heat.  During summer months when it's being delivered to stores or when there are power cuts, the heat could ruin it. This could in turn cause a stomach infection. Hence, fresh homemade paneer is the best.  So is curd or any other milk product.  
 
 <IMG SRC="images/homemade_paneer.jpg" />
 
@@ -2094,19 +2173,21 @@ Although paneer or cottage cheese is readily available in the market today its a
 **Procedure :**
 
 1. Boil milk. Add lime juice and reduce the heat. 
-2. Stir till the milk curdles. You know that its done when the whey (liquid portion) looks completely transparent.
+2. Stir till the milk curdles. You know that it's done when the whey (liquid portion) looks completely transparent.
 3. Strain the curdled milk through a muslin cloth.
 4. Tie the cloth and hang it till the whey drains out completely. This will take a few hours. For faster results squeeze out as much whey as possible before tying the cloth bag.
 5. Once all the water is out, press the residue under a heavy object for 2 hours.  
 6. Once the paneer binds, refrigerate for an hour. 
 7. Take out the paneer slab and cut it into pieces. Use this paneer in making dishes for the baby.
 
-> * Do not use milk thats split on its own as the paneer won't bind well. Its always advisable to split milk using an agent.
+####Please Note
+> * Do not use milk that's split on its own as the paneer won't bind well. It's always advisable to split milk using an agent.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
-<li>Paneer is a cheese which is high in protein while relatively being low in fat. Its a good source of calcium just like all other dairy products.
-Its also rich in sodium and potassium.</li>
+<li>Paneer is a cheese which is high in protein while relatively being low in fat. It's a good source of calcium just like all other dairy products.
+It's also rich in sodium and potassium.</li>
 </ul>
 </blockquote>
 
@@ -2131,6 +2212,7 @@ Its also rich in sodium and potassium.</li>
 5. Flip over and cook the dosa on the other side as well.
 6. Serve warm to the baby along with curd and <a href="#ch_46">pudina chutney</a>.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>
@@ -2171,8 +2253,8 @@ This is the age when kids become smart and start examining everything they eat. 
 
 ##Paneer Fingers 
 
-All paneer dishes made for the baby should use <a href='#ch_48'>homemade paneer</a>. Since Paneer is obtained by curdling milk its high in protein and fat. 
-Its an easily digestible milk product and can be introduced to the baby, in small quantities.
+All paneer dishes made for the baby should use <a href='#ch_48'>homemade paneer</a>. Since Paneer is obtained by curdling milk it's high in protein and fat. 
+It's an easily digestible milk product and can be introduced to the baby, in small quantities.
 
 <IMG SRC="images/paneer_fingers.JPG" />
 
@@ -2192,13 +2274,14 @@ Its an easily digestible milk product and can be introduced to the baby, in smal
 2. Add paneer fingers and stir well till the flavored ghee coats the paneer.
 3. Turn off the heat and mix in a few drops of lime juice.
 
+####Please Note
 > * Add dry powders in medium hot oil and quickly fry the paneer fingers else the masalas will get burnt quite easily.
 
 
 ##Moong Sprouts Bhel
 
 
-Green moong sprouts besides being rich in protein also contain a good amount of fiber, potassium and B-Vitamins. Although sprouts are best eaten raw, here we blanch the sprouts for a few minutes in boiling water so its easy for the baby to swallow. When mixed with fine chopped salad this serves as a nutritious and filling breakfast.
+Green moong sprouts besides being rich in protein also contain a good amount of fiber, potassium and B-Vitamins. Although sprouts are best eaten raw, here we blanch the sprouts for a few minutes in boiling water so it's easy for the baby to swallow. When mixed with fine chopped salad this serves as a nutritious and filling breakfast.
 
 <IMG SRC="images/sprouts_bhel.jpg" />
 
@@ -2217,8 +2300,10 @@ Green moong sprouts besides being rich in protein also contain a good amount of 
 2. Mix with tomato, cucumber, carrot, coriander leaves, puffed rice, salt and lemon juice.
 3. Feed immediately least the puffed rice becomes soggy.
 
-> * Its advisable to feed homemade sprouts to the baby. Readily available sprouts sold in the market could be contaminated. Since sprouts fall in the category of uncooked food you can not depend on anything except what is made at home.
+####Please Note
+> * It's advisable to feed homemade sprouts to the baby. Readily available sprouts sold in the market could be contaminated. Since sprouts fall in the category of uncooked food you can not depend on anything except what is made at home.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>Green Moong is rich in dietary fiber and protein. The vitamins, minerals and protein content can be substantially increased with sprouting.
@@ -2249,9 +2334,10 @@ Green moong sprouts besides being rich in protein also contain a good amount of 
 4. Heat oil. Deep fry batter into balls at sim heat till they turn golden brown.
 
 
+####Please Note
 > * If the batter is runny add some more flour.
 > * Do not fry more than 4 dumplings at a time. Once you remove the dumplings from the oil wait for few minutes to allow the oil to heat up again.
-> * Once done, break one dumpling to check if its cooked properly till inside. If it hasnt, please increase the frying time on sim heat.
+> * Once done, break one dumpling to check if it's cooked properly till inside. If it hasn't, please increase the frying time on sim heat.
 
 
 
@@ -2270,12 +2356,13 @@ Jam can be made for babies by boiling fruits with some Jaggery or Rock Sugar. Yo
 **Procedure :**
 
 1. Remove pips and peels from the fruit. 
-2. Heat pulp of the fruit with rock sugar till its soft and can be mashed easily.
+2. Heat pulp of the fruit with rock sugar till it's soft and can be mashed easily.
 3. Taste and accordingly add more sugar (Depends on how sweet the fruit is)
 4. Add lime juice into the mix.
 5. Thicken till it gets a jam-like consistency.
 6. Serve it with some warm Whole Wheat Bread.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>
@@ -2329,7 +2416,7 @@ To counter this problem here we stuff vegetables into the dough before making th
 
 Almonds or Badams are nuts that are not only nutritive but also very tasty. They are rich in dietary fiber and an excellent source of vitamin E. Almonds tend to change the flavor of milk  hence if your baby doesn't like regular milk you can give this a try. 
 
-Badam milk is a beverage enjoyed hot or cold by adults as well. Too heavy or creamy drinks are not easy for babies to digest hence we partly use water here. Its advisable to sieve the drink before giving it to the baby to avoid a cough due to irritation in the throat. However, for adults this can be had along with the fine almond bits. 
+Badam milk is a beverage enjoyed hot or cold by adults as well. Too heavy or creamy drinks are not easy for babies to digest hence we partly use water here. It's advisable to sieve the drink before giving it to the baby to avoid a cough due to irritation in the throat. However, for adults this can be had along with the fine almond bits. 
 
 <IMG SRC="images/badam_milk.jpg" />
 
@@ -2348,9 +2435,10 @@ Badam milk is a beverage enjoyed hot or cold by adults as well. Too heavy or cre
 2. Skin them and grind with cardamom seeds and water to make a fine paste.
 3. Soak saffron in a tablespoon of milk for an hour.
 4. Boil the remaining milk. Add the almond paste, rock sugar, saffron milk and continue to boil for 5 more minutes on medium heat. 
-5. Strain the beverage and allow it to cool down to luke warm before feeding the baby.
+5. Strain the beverage and allow it to cool down to lukewarm before feeding the baby.
 
 
+####Please Note
 > While making Badam milk for adults :
 
 > * Use regular sugar instead of rock sugar.
@@ -2359,6 +2447,7 @@ Badam milk is a beverage enjoyed hot or cold by adults as well. Too heavy or cre
 > * You need not strain the beverage before serving.
 > * To adults it can be served chilled !
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>
@@ -2371,7 +2460,7 @@ minerals like manganese, potassium, magnesium, calcium and iron.
 
 ##Baby Rasam 
 
-Vegetable rasam is a nutritive and delicious alternative to the usual dal. Its made almost the same way as we make rasam for ourselves with some exceptions to make it suitable for babies. We freshly prepare a non-spicy rasam powder and use the natural tanginess of tomatoes instead of tamarind. The stock of selected vegetables can be added to this rasam based on your baby's taste.
+Vegetable rasam is a nutritive and delicious alternative to the usual dal. It's made almost the same way as we make rasam for ourselves with some exceptions to make it suitable for babies. We freshly prepare a non-spicy rasam powder and use the natural tanginess of tomatoes instead of tamarind. The stock of selected vegetables can be added to this rasam based on your baby's taste.
 
 <IMG SRC="images/baby_rasam.JPG">
 
@@ -2421,6 +2510,7 @@ For the Rasam :
 6. Turn off the heat. Add lemon juice and garnish with coriander leaves.
 7. You can feed this rasam with rice after smearing some ghee over it. 
 
+####Please Note
 > * You can take out the curry leaves before feeding the baby or alternately add it to the vegetables while preparing the stock.
 > * If rasam is being prepared for adults you can roast and grind some red chillies into the powder as well.
 
@@ -2432,11 +2522,11 @@ Travelling with a baby can be challenging as you can't feed the baby most of the
 
 <IMG SRC="images/breakfast_mix.jpg" />
 
-Once you make this mix it can be stored in an air-tight container for upto a month. Whenever you need to eat it just moisten it with some warm water, stir in a spoonful of ghee and mix well. Thats the maximum you need to do for a delicious breakfast. You don't even need to turn on the stove! Just warm 1/2 a cup of water for 20 s in a microwave or carry a hot water flask to prepare this dish. In case you can't arrange for hot water at some point, its still ok. Regular water also works fine.
+Once you make this mix it can be stored in an air-tight container for upto a month. Whenever you need to eat it just moisten it with some warm water, stir in a spoonful of ghee and mix well. That's the maximum you need to do for a delicious breakfast. You don't even need to turn on the stove! Just warm 1/2 a cup of water for 20 s in a microwave or carry a hot water flask to prepare this dish. In case you can't arrange for hot water at some point, it's still ok. Regular water also works fine.
 
 Different ways in which adults can eat this :
 
-1. The most simple is as a Namkeen (Savoury mixture) with tea.
+1. The most simple is as a Savoury mixture (namkeen) with tea.
 2. You can add finely chopped cucumber, onion, tomato, coriander leaves and eat it like Bhel puri (a kind of Chaat).
 3. It can be moistened and had as a regular breakfast
 
@@ -2450,7 +2540,7 @@ Mixing of ghee before eating is important because while roasting we have not add
 **Ingredients :**
 
 * 1 cup beaten rice (poha - thin flakes)
-* 2 teaspoons ground chutney dal powder (puttani)
+* 2 teaspoons ground chutney dal powder (fried gram or puttani)
 * 1/4 teaspoon mustard seeds (rai)
 * 1/4 teaspoon Bengal Gram (Channa) dal
 * 1/4 teaspoon White Urad dal
@@ -2466,6 +2556,7 @@ Mixing of ghee before eating is important because while roasting we have not add
 3. Now add Poha and continue to stir till the Poha is crispy.
 4. Add hing, turmeric powder, dry tamarind powder and salt. Mix well.
 
+####Please Note
 > * Don't cook the poha much more as the masalas will settle at the bottom and get burnt.
 
 **Variation :**
@@ -2484,8 +2575,8 @@ Just dampen the poha mix by sprinkling some warm water and add a spoonful of ghe
 
 ## Panjeeri 
 
-Panjeeri is a prasad that we usually prepare on Janmashtmi and I've noticed that kids really love it. Its powdery in texture and doesn't taste too sweet like most other desserts.
-Its also a mix with a long shelf life and hence can be useful during travel. You can carry the panjeeri with you on the trip and mix in some warm 
+Panjeeri is a prasad that we usually prepare on Janmashtmi and I've noticed that kids really love it. It's powdery in texture and doesn't taste too sweet like most other desserts.
+It's also a mix with a long shelf life and hence can be useful during travel. You can carry the panjeeri with you on the trip and mix in some warm 
 water to make a paste that the baby can have anytime for a filling meal.
 
 <IMG SRC="images/panjeeri.jpg" />
@@ -2506,6 +2597,7 @@ water to make a paste that the baby can have anytime for a filling meal.
 5. Once it cools down completely mix in the powdered sugar.
 6. You can store panjeeri in an air-tight container for about a week.
 
+####Please Note
 > * Add the sugar only after the roasted flour cools down else the sugar will melt and spoil the texture.
 > * If Panjeeri is being made for adults you can increase the quantity of powdered sugar.
 
@@ -2545,7 +2637,7 @@ once before your trip.
 * 1 tablespoon oil
 * A pinch of turmeric powder (haldi)
 * 1 teaspoon coriander powder (dhania)
-* 1/2 teaspoon cumin powder (jeera powder)
+* 1/2 teaspoon cumin powder (ground jeera)
 * 5 cloves of garlic, finely chopped
 * 1 cup of fenugreek (methi) leaves, fine chopped
 * 1/4 cup curd
@@ -2561,8 +2653,10 @@ once before your trip.
 2. Take a lemon-sized ball of dough. Dust it in dry flour and roll out into parathas.
 3. Apply oil and cook on both sides on a hot griddle/ tawa.
 
+####Please Note
 > * Spread out the theplas and allow the steam to escape before packing, else the condensed water droplets will spoil it quickly.
 
+####Nutritional Facts
 <blockquote class="nutrition">
 <ul>
 <li>
